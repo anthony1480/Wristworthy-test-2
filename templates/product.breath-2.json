@@ -437,6 +437,87 @@
         "lazy": true
       }
     },
+    "faq_mRyz9d": {
+      "type": "faq",
+      "blocks": {
+        "frequently_asked_question_THLDdH": {
+          "type": "frequently_asked_question",
+          "settings": {
+            "icon": "check-mark",
+            "another_icon": "",
+            "custom_icon": "",
+            "heading": "Is it real silver and gold",
+            "row_content": "<p>We use 316L stainless steel with high-quality PVD coating so no rust, no fade, even with water. So you won't see any difference, and what's even better is that we have a Lifetime Warranty on all of our prodiucts</p>"
+          }
+        },
+        "frequently_asked_question_b8PxkH": {
+          "type": "frequently_asked_question",
+          "settings": {
+            "icon": "cloud-rain",
+            "another_icon": "",
+            "custom_icon": "",
+            "heading": "Can I wear this in the shower or while swimming?",
+            "row_content": "<p>Yes offcourse you can, it does not rust or even change any colors so you can swim, shower and keep it on anywhere you go.</p>"
+          }
+        },
+        "frequently_asked_question_KkUJRF": {
+          "type": "frequently_asked_question",
+          "settings": {
+            "icon": "wallet",
+            "another_icon": "",
+            "custom_icon": "",
+            "heading": "How are the bracelets packaged?",
+            "row_content": "<p>We have an original packaging that suits gifts, stories and anything you can think of. Very sleek, elegantly designed to fit any event</p>"
+          }
+        },
+        "frequently_asked_question_nnHDiQ": {
+          "type": "frequently_asked_question",
+          "settings": {
+            "icon": "credit-card",
+            "another_icon": "",
+            "custom_icon": "",
+            "heading": "Do you offer warranty?",
+            "row_content": "<p>Yes we do trust our quality so much that we offer lifetime warranty, no questions asked</p>"
+          }
+        }
+      },
+      "block_order": [
+        "frequently_asked_question_THLDdH",
+        "frequently_asked_question_b8PxkH",
+        "frequently_asked_question_KkUJRF",
+        "frequently_asked_question_nnHDiQ"
+      ],
+      "name": "t:sections.question_and_answer.presets.name",
+      "settings": {
+        "heading": "FAQs",
+        "highlight_type": "underline",
+        "heading_size": 100,
+        "heading_tag": "h2",
+        "heading_alignment": "center",
+        "show_border": false,
+        "row_background": false,
+        "collapsible": true,
+        "show_view_all": true,
+        "view_all_position": "top",
+        "button_link": "",
+        "open_new_window": false,
+        "background_color_light": "rgba(0,0,0,0)",
+        "background_color_dark": "rgba(0,0,0,0)",
+        "enable_microdata_schema": false,
+        "desktop_layout": "1",
+        "image_alignment": "left",
+        "desktop_height": "400px",
+        "show_section_divider": false,
+        "make_full_page_width": false,
+        "padding_top": 28,
+        "padding_bottom": 28,
+        "image_alignment_mobile": "left",
+        "mobile_height": "250px",
+        "show_section_divider_mobile": false,
+        "padding_top_mobile": 28,
+        "padding_bottom_mobile": 28
+      }
+    },
     "47ef2f4e-6a8e-4db1-a733-3513b9c0997d": {
       "type": "multicolumn",
       "blocks": {
@@ -538,6 +619,7 @@
     "product-recommendations",
     "flash_sale_pwfXVt",
     "video_slider_38nfKK",
+    "faq_mRyz9d",
     "47ef2f4e-6a8e-4db1-a733-3513b9c0997d"
   ]
 }
