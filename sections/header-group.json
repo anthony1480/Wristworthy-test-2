@@ -121,7 +121,7 @@
     "header": {
       "type": "header",
       "settings": {
-        "menu": "main-menu",
+        "menu": "our-collections-1",
         "select_motion": "hover",
         "full_width": true,
         "logo_position": "left-center",
@@ -134,6 +134,7 @@
         "show_social_icons": false,
         "enable_on_homepage": true,
         "enable_on_collection_page": true,
+        "logo_transparent": "shopify://shop_images/IMG_5920-removebg-preview.png",
         "shadow": 36,
         "text_color_light": "#ffffff",
         "textlink_color_light": "rgba(0,0,0,0)",
@@ -144,7 +145,7 @@
         "enable_highlight": true,
         "menus": "",
         "highlight_style": "marker",
-        "highlight_color_light": "#6b7050",
+        "highlight_color_light": "#253341",
         "highlight_color_dark": "rgba(0,0,0,0)",
         "header_show_language_selector": false,
         "header_show_currency_selector": false,
