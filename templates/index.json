@@ -297,7 +297,7 @@
             "title": "Loving it",
             "text": "<p>I Wear it everywhere now and everyone asks me where i got it from.</p>",
             "author_image": "shopify://shop_images/WhatsApp_Image_2025-10-15_at_13.09.57_1.jpg",
-            "author": "Christian . L",
+            "author": "Ghinwa",
             "author_note": "",
             "product": "boss-chain-bracelet"
           }
@@ -310,7 +310,7 @@
             "title": "In love",
             "text": "<p>I love my bracelet, it's very high quality and sustainable and i even take showers with it. </p>",
             "author_image": "shopify://shop_images/WhatsApp_Image_2025-10-15_at_13.10.00.jpg",
-            "author": "Serge . M",
+            "author": "Yaghi",
             "author_note": "",
             "product": "lacoste-silver-crocodile-bracelet"
           }
@@ -323,7 +323,7 @@
             "title": "Very elegant",
             "text": "<p>It's very classy and elegant and i love it.</p>",
             "author_image": "shopify://shop_images/WhatsApp_Image_2025-10-15_at_13.09.59_2.jpg",
-            "author": "Chris S",
+            "author": "Leen",
             "author_note": "",
             "product": "boss-chain-bracelet"
           }
@@ -336,7 +336,7 @@
             "title": "Inn LOVEE",
             "text": "<p>Very high quality and durable, i am in lovveeee!!</p>",
             "author_image": "shopify://shop_images/WhatsApp_Image_2025-10-15_at_13.09.59.jpg",
-            "author": "Nour K",
+            "author": "Reem",
             "author_note": "",
             "product": "hermes-women-s-bracelet"
           }
@@ -416,6 +416,7 @@
             "overlay_opacity": 0,
             "image_ratio": "100",
             "show_sound_control": false,
+            "video_url": "",
             "enable_video_autoplay": false,
             "video_alt_text": "",
             "product_card": "",
@@ -502,6 +503,7 @@
             "overlay_opacity": 0,
             "image_ratio": "100",
             "show_sound_control": false,
+            "video_url": "",
             "enable_video_autoplay": false,
             "video_alt_text": "",
             "product_card": "",
@@ -588,6 +590,7 @@
             "overlay_opacity": 0,
             "image_ratio": "100",
             "show_sound_control": false,
+            "video_url": "",
             "enable_video_autoplay": false,
             "video_alt_text": "",
             "product_card": "",
@@ -657,6 +660,8 @@
         "template--21828924539181__ec753deb-9b85-432b-ad75-2c2fd240c350-media-2": {
           "type": "media",
           "settings": {
+            "image": "shopify://shop_images/WhatsApp_Image_2025-10-13_at_15.14.34_1.jpg",
+            "image_mobile": "shopify://shop_images/WhatsApp_Image_2025-10-13_at_15.14.34_1.jpg",
             "image_link": "",
             "open_new_window": false,
             "show_sound_control": false,
@@ -700,6 +705,8 @@
         "template--21828924539181__ec753deb-9b85-432b-ad75-2c2fd240c350-media-3": {
           "type": "media",
           "settings": {
+            "image": "shopify://shop_images/WhatsApp_Image_2025-10-13_at_15.14.34.jpg",
+            "image_mobile": "shopify://shop_images/WhatsApp_Image_2025-10-13_at_15.14.34.jpg",
             "image_link": "",
             "open_new_window": false,
             "show_sound_control": false,
@@ -743,6 +750,8 @@
         "media_nKCTha": {
           "type": "media",
           "settings": {
+            "image": "shopify://shop_images/WhatsApp_Image_2025-10-13_at_15.14.33.jpg",
+            "image_mobile": "shopify://shop_images/WhatsApp_Image_2025-10-13_at_15.14.33.jpg",
             "image_link": "",
             "open_new_window": false,
             "show_sound_control": false,
@@ -782,144 +791,12 @@
             "secondary_button_text": "rgba(0,0,0,0)",
             "colors_text_link": "rgba(0,0,0,0)"
           }
-        },
-        "e201a23e-7152-431b-bd6e-681a502ff504": {
-          "type": "media",
-          "settings": {
-            "image_link": "",
-            "open_new_window": false,
-            "show_sound_control": false,
-            "video_url": "",
-            "enable_video_autoplay": true,
-            "video_alt_text": "",
-            "enable_content_overlay": true,
-            "content_position": "center",
-            "overlay_opacity": 0,
-            "number_of_columns": 1,
-            "number_of_row": 1,
-            "icon": "none",
-            "another_icon": "",
-            "custom_icon": "",
-            "icon_size": 45,
-            "sub_title": "",
-            "title": "",
-            "highlight_type": "underline",
-            "title_size": 80,
-            "text": "",
-            "text_size": 130,
-            "text_align": "center",
-            "media_position": "top",
-            "button_label": "",
-            "button_link": "",
-            "open_new_window_button": false,
-            "show_button_style": "primary",
-            "color_overlay": "rgba(0,0,0,0)",
-            "title_color": "rgba(0,0,0,0)",
-            "text_color": "rgba(0,0,0,0)",
-            "color_heading_highlight_light": "rgba(0,0,0,0)",
-            "color_button": "rgba(0,0,0,0)",
-            "background_button": "rgba(0,0,0,0)",
-            "color_button_hover": "rgba(0,0,0,0)",
-            "background_button_hover": "rgba(0,0,0,0)",
-            "color_button_secondary": "rgba(0,0,0,0)",
-            "secondary_button_text": "rgba(0,0,0,0)",
-            "colors_text_link": "rgba(0,0,0,0)"
-          }
-        },
-        "5599b296-b06c-4496-8800-62a2bdab8c49": {
-          "type": "media",
-          "settings": {
-            "image_link": "",
-            "open_new_window": false,
-            "show_sound_control": false,
-            "video_url": "",
-            "enable_video_autoplay": true,
-            "video_alt_text": "",
-            "enable_content_overlay": true,
-            "content_position": "center",
-            "overlay_opacity": 0,
-            "number_of_columns": 1,
-            "number_of_row": 1,
-            "icon": "none",
-            "another_icon": "",
-            "custom_icon": "",
-            "icon_size": 45,
-            "sub_title": "",
-            "title": "",
-            "highlight_type": "underline",
-            "title_size": 80,
-            "text": "",
-            "text_size": 130,
-            "text_align": "center",
-            "media_position": "top",
-            "button_label": "",
-            "button_link": "",
-            "open_new_window_button": false,
-            "show_button_style": "primary",
-            "color_overlay": "rgba(0,0,0,0)",
-            "title_color": "rgba(0,0,0,0)",
-            "text_color": "rgba(0,0,0,0)",
-            "color_heading_highlight_light": "rgba(0,0,0,0)",
-            "color_button": "rgba(0,0,0,0)",
-            "background_button": "rgba(0,0,0,0)",
-            "color_button_hover": "rgba(0,0,0,0)",
-            "background_button_hover": "rgba(0,0,0,0)",
-            "color_button_secondary": "rgba(0,0,0,0)",
-            "secondary_button_text": "rgba(0,0,0,0)",
-            "colors_text_link": "rgba(0,0,0,0)"
-          }
-        },
-        "18e177f8-e77d-48ba-b580-1d5bff64df63": {
-          "type": "media",
-          "settings": {
-            "image_link": "",
-            "open_new_window": false,
-            "show_sound_control": false,
-            "video_url": "",
-            "enable_video_autoplay": true,
-            "video_alt_text": "",
-            "enable_content_overlay": true,
-            "content_position": "center",
-            "overlay_opacity": 0,
-            "number_of_columns": 1,
-            "number_of_row": 1,
-            "icon": "none",
-            "another_icon": "",
-            "custom_icon": "",
-            "icon_size": 45,
-            "sub_title": "",
-            "title": "",
-            "highlight_type": "underline",
-            "title_size": 80,
-            "text": "",
-            "text_size": 130,
-            "text_align": "center",
-            "media_position": "top",
-            "button_label": "",
-            "button_link": "",
-            "open_new_window_button": false,
-            "show_button_style": "primary",
-            "color_overlay": "rgba(0,0,0,0)",
-            "title_color": "rgba(0,0,0,0)",
-            "text_color": "rgba(0,0,0,0)",
-            "color_heading_highlight_light": "rgba(0,0,0,0)",
-            "color_button": "rgba(0,0,0,0)",
-            "background_button": "rgba(0,0,0,0)",
-            "color_button_hover": "rgba(0,0,0,0)",
-            "background_button_hover": "rgba(0,0,0,0)",
-            "color_button_secondary": "rgba(0,0,0,0)",
-            "secondary_button_text": "rgba(0,0,0,0)",
-            "colors_text_link": "rgba(0,0,0,0)"
-          }
         }
       },
       "block_order": [
         "template--21828924539181__ec753deb-9b85-432b-ad75-2c2fd240c350-media-2",
         "template--21828924539181__ec753deb-9b85-432b-ad75-2c2fd240c350-media-3",
-        "media_nKCTha",
-        "e201a23e-7152-431b-bd6e-681a502ff504",
-        "5599b296-b06c-4496-8800-62a2bdab8c49",
-        "18e177f8-e77d-48ba-b580-1d5bff64df63"
+        "media_nKCTha"
       ],
       "settings": {
         "heading": "IMAGE GALLERY",
@@ -946,6 +823,87 @@
         "padding_top_mobile": 48,
         "padding_bottom_mobile": 28
       }
+    },
+    "faq_CN9rKn": {
+      "type": "faq",
+      "blocks": {
+        "frequently_asked_question_NwEiwX": {
+          "type": "frequently_asked_question",
+          "settings": {
+            "icon": "heart",
+            "another_icon": "",
+            "custom_icon": "",
+            "heading": "Frequently asked question",
+            "row_content": "<p>Use this text to answer questions in as much detail as possible for your customers.</p>"
+          }
+        },
+        "frequently_asked_question_dXXn8L": {
+          "type": "frequently_asked_question",
+          "settings": {
+            "icon": "heart",
+            "another_icon": "",
+            "custom_icon": "",
+            "heading": "Frequently asked question",
+            "row_content": "<p>Use this text to answer questions in as much detail as possible for your customers.</p>"
+          }
+        },
+        "frequently_asked_question_V7GWkh": {
+          "type": "frequently_asked_question",
+          "settings": {
+            "icon": "heart",
+            "another_icon": "",
+            "custom_icon": "",
+            "heading": "Frequently asked question",
+            "row_content": "<p>Use this text to answer questions in as much detail as possible for your customers.</p>"
+          }
+        },
+        "frequently_asked_question_3p8mBH": {
+          "type": "frequently_asked_question",
+          "settings": {
+            "icon": "heart",
+            "another_icon": "",
+            "custom_icon": "",
+            "heading": "Frequently asked question",
+            "row_content": "<p>Use this text to answer questions in as much detail as possible for your customers.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "frequently_asked_question_NwEiwX",
+        "frequently_asked_question_dXXn8L",
+        "frequently_asked_question_V7GWkh",
+        "frequently_asked_question_3p8mBH"
+      ],
+      "name": "t:sections.question_and_answer.presets.name",
+      "settings": {
+        "heading": "FAQs",
+        "highlight_type": "underline",
+        "heading_size": 100,
+        "heading_tag": "h2",
+        "heading_alignment": "center",
+        "show_border": false,
+        "row_background": false,
+        "collapsible": true,
+        "show_view_all": true,
+        "view_all_position": "top",
+        "button_link": "",
+        "open_new_window": false,
+        "background_color_light": "rgba(0,0,0,0)",
+        "background_color_dark": "rgba(0,0,0,0)",
+        "enable_microdata_schema": false,
+        "desktop_layout": "1",
+        "image_alignment": "left",
+        "desktop_height": "400px",
+        "show_section_divider": false,
+        "make_full_page_width": false,
+        "padding_top": 28,
+        "padding_bottom": 28,
+        "image_alignment_mobile": "left",
+        "mobile_height": "250px",
+        "show_section_divider_mobile": false,
+        "padding_top_mobile": 28,
+        "padding_bottom_mobile": 28
+      }
     }
   },
   "order": [
@@ -956,6 +914,7 @@
     "featured_collection_PykntH",
     "featured_collection_JzCzYw",
     "featured_collection_ATTqQ7",
-    "ec753deb-9b85-432b-ad75-2c2fd240c350"
+    "ec753deb-9b85-432b-ad75-2c2fd240c350",
+    "faq_CN9rKn"
   ]
 }
