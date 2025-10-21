@@ -295,10 +295,11 @@
             "icon_star": "5_star",
             "custom_icon": "",
             "title": "Loving it",
-            "text": "<p>Every day i am trying new smoothies, i love it it's so tasty and delicious</p>",
-            "author": "Sarah Makki",
+            "text": "<p>I Wear it everywhere now and everyone asks me where i got it from.</p>",
+            "author_image": "shopify://shop_images/WhatsApp_Image_2025-10-15_at_13.09.57_1.jpg",
+            "author": "Christian . L",
             "author_note": "",
-            "product": "energyzed™-all-in-1-moringa-powder"
+            "product": "boss-chain-bracelet"
           }
         },
         "testimonial_QLLP3j": {
@@ -306,11 +307,12 @@
           "settings": {
             "icon_star": "5_star",
             "custom_icon": "",
-            "title": "Yummy Smoothies",
-            "text": "<p>I tried one of the smoothies and it was honestly delicious</p>",
-            "author": "Sara Shaaban",
+            "title": "In love",
+            "text": "<p>I love my bracelet, it's very high quality and sustainable and i even take showers with it. </p>",
+            "author_image": "shopify://shop_images/WhatsApp_Image_2025-10-15_at_13.10.00.jpg",
+            "author": "Serge . M",
             "author_note": "",
-            "product": "energyzed™-all-in-1-moringa-powder"
+            "product": "lacoste-silver-crocodile-bracelet"
           }
         },
         "testimonial_JnNDA7": {
@@ -318,11 +320,12 @@
           "settings": {
             "icon_star": "quote",
             "custom_icon": "",
-            "title": "So much energy",
-            "text": "<p>As a runner, i need the energy boost and this is why i started using energyze</p>",
-            "author": "Clara Atallah",
+            "title": "Very elegant",
+            "text": "<p>It's very classy and elegant and i love it.</p>",
+            "author_image": "shopify://shop_images/WhatsApp_Image_2025-10-15_at_13.09.59_2.jpg",
+            "author": "Chris S",
             "author_note": "",
-            "product": "energyzed™-all-in-1-moringa-powder"
+            "product": "boss-chain-bracelet"
           }
         },
         "testimonial_LR8QgY": {
@@ -330,11 +333,12 @@
           "settings": {
             "icon_star": "5_star",
             "custom_icon": "",
-            "title": "The ENERGY!!",
-            "text": "<p>It helped me reduce bloating and i even lost some weight!!</p>",
-            "author": "Nour Basma",
+            "title": "Inn LOVEE",
+            "text": "<p>Very high quality and durable, i am in lovveeee!!</p>",
+            "author_image": "shopify://shop_images/WhatsApp_Image_2025-10-15_at_13.09.59.jpg",
+            "author": "Nour K",
             "author_note": "",
-            "product": "energyzed™-all-in-1-moringa-powder"
+            "product": "hermes-women-s-bracelet"
           }
         },
         "template--21828924539181__54f7b6ce-e4ba-42b3-9550-cde9eb5ab2b4-testimonial-1": {
@@ -342,11 +346,12 @@
           "settings": {
             "icon_star": "5_star",
             "custom_icon": "",
-            "title": "I am loving this, every single day i am getting soo much energy.",
+            "title": "Classy and can go anywhere",
             "text": "",
-            "author": "Maritta Azar",
+            "author_image": "shopify://shop_images/WhatsApp_Image_2025-10-15_at_13.11.26.jpg",
+            "author": "Mauris . L",
             "author_note": "",
-            "product": "energyzed™-all-in-1-moringa-powder"
+            "product": "hermes-men-s-bracelet"
           }
         }
       },
@@ -671,13 +676,13 @@
             "title": "",
             "highlight_type": "underline",
             "title_size": 80,
-            "text": "<h2>Follow us on<br/>Instagram</h2>",
+            "text": "",
             "text_size": 130,
             "text_align": "right",
             "media_position": "top",
-            "button_label": "Follow @getenergyze",
-            "button_link": "https://www.instagram.com/getenergyze?igsh=a2trcW90cmpoYXFz&utm_source=qr",
-            "open_new_window_button": false,
+            "button_label": "",
+            "button_link": "",
+            "open_new_window_button": true,
             "show_button_style": "primary",
             "color_overlay": "rgba(0,0,0,0)",
             "title_color": "#ffffff",
