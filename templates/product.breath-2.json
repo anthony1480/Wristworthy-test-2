@@ -9,6 +9,10 @@
  */
 {
   "sections": {
+    "1761051973f64964de": {
+      "type": "_blocks",
+      "settings": {}
+    },
     "main": {
       "type": "main-product",
       "blocks": {
@@ -195,190 +199,6 @@
         "padding_bottom_mobile": 28
       }
     },
-    "112bd756-97fc-43b2-874a-75a863bb6bf7": {
-      "type": "image-with-text",
-      "blocks": {
-        "template--21416161116461__112bd756-97fc-43b2-874a-75a863bb6bf7-heading-1": {
-          "type": "heading",
-          "settings": {
-            "subheading": "Our Sustainability Promise",
-            "heading": "We Plant Trees for Global Reforestation.",
-            "highlight_type": "underline",
-            "heading_base_size": 100,
-            "heading_tag": "h2",
-            "text": "<p>These colourful interiors feature a unique double-walled layer of insulation, which protects plant’s roots all year round.<br/>Europe outdoor pots are also lightweight, making them a hassle-free solution for growing plants indoors and outdoors.</p>",
-            "number_of_lines_shown": "none",
-            "read_more_label": "Read more",
-            "see_less_label": "See less",
-            "heading_light": "rgba(0,0,0,0)",
-            "text_light": "rgba(0,0,0,0)",
-            "color_heading_highlight_light": "rgba(0,0,0,0)",
-            "heading_dark": "rgba(0,0,0,0)",
-            "text_dark": "rgba(0,0,0,0)",
-            "color_heading_highlight_dark": "rgba(0,0,0,0)"
-          }
-        },
-        "template--21416161116461__112bd756-97fc-43b2-874a-75a863bb6bf7-button-1": {
-          "type": "button",
-          "settings": {
-            "button_label": "More Info",
-            "button_link": "",
-            "open_new_window": false,
-            "show_button_style": "primary",
-            "button_light": "rgba(0,0,0,0)",
-            "button_text_light": "rgba(0,0,0,0)",
-            "button_hover_light": "rgba(0,0,0,0)",
-            "button_text_hover_light": "rgba(0,0,0,0)",
-            "secondary_button_light": "rgba(0,0,0,0)",
-            "secondary_button_text_light": "rgba(0,0,0,0)",
-            "colors_text_link": "rgba(0,0,0,0)",
-            "button_dark": "rgba(0,0,0,0)",
-            "button_text_dark": "rgba(0,0,0,0)",
-            "button_hover_dark": "rgba(0,0,0,0)",
-            "button_text_hover_dark": "rgba(0,0,0,0)",
-            "secondary_button_dark": "rgba(0,0,0,0)",
-            "secondary_button_text_dark": "rgba(0,0,0,0)",
-            "colors_text_link_dark": "rgba(0,0,0,0)"
-          }
-        }
-      },
-      "block_order": [
-        "template--21416161116461__112bd756-97fc-43b2-874a-75a863bb6bf7-heading-1",
-        "template--21416161116461__112bd756-97fc-43b2-874a-75a863bb6bf7-button-1"
-      ],
-      "settings": {
-        "show_sound_control": false,
-        "video_url": "",
-        "video_alt_text": "",
-        "enable_video_autoplay": false,
-        "desktop_height": "550px",
-        "mobile_height": "400px",
-        "desktop_image_width": "large",
-        "image_layout": "normal",
-        "image_corner_radius": 0,
-        "content_layout": "no-overlap",
-        "spacing_image": false,
-        "text_position": "center",
-        "text_alignment": "start",
-        "background_color_light": "#f6f6f0",
-        "background_color_dark": "#2a2a2a",
-        "line_border": "dashed",
-        "icon_position": "col",
-        "icon_size": 45,
-        "alignment": "center",
-        "columns_desktop": 4,
-        "columns_mobile": "2",
-        "heading_color_light": "rgba(0,0,0,0)",
-        "text_color_light": "rgba(0,0,0,0)",
-        "line_border_light": "rgba(0,0,0,0)",
-        "icon_color_light": "rgba(0,0,0,0)",
-        "heading_color_dark": "rgba(0,0,0,0)",
-        "text_color_dark": "rgba(0,0,0,0)",
-        "line_border_dark": "rgba(0,0,0,0)",
-        "icon_color_dark": "rgba(0,0,0,0)",
-        "image_alignment": "left",
-        "full_width": true,
-        "padding_full_width": false,
-        "top_padding": 0,
-        "bottom_padding": 0,
-        "image_alignment_mobile": "left",
-        "full_width_mobile": true,
-        "top_padding_mobile": 0,
-        "bottom_padding_mobile": 0
-      }
-    },
-    "16906cbb-53b2-453b-98d3-60126bbc109d": {
-      "type": "image-with-text",
-      "blocks": {
-        "template--21416161116461__16906cbb-53b2-453b-98d3-60126bbc109d-heading-1": {
-          "type": "heading",
-          "settings": {
-            "subheading": "Our Sustainability Promise",
-            "heading": "RecyclablePackaging & CO2 Neutral Delivery",
-            "highlight_type": "underline",
-            "heading_base_size": 100,
-            "heading_tag": "h2",
-            "text": "<p>These colourful interiors feature a unique double-walled layer of insulation, which protects plant’s roots all year round.<br/>Europe outdoor pots are also lightweight, making them a hassle-free solution for growing plants indoors and outdoors.</p>",
-            "number_of_lines_shown": "none",
-            "read_more_label": "Read more",
-            "see_less_label": "See less",
-            "heading_light": "rgba(0,0,0,0)",
-            "text_light": "rgba(0,0,0,0)",
-            "color_heading_highlight_light": "rgba(0,0,0,0)",
-            "heading_dark": "rgba(0,0,0,0)",
-            "text_dark": "rgba(0,0,0,0)",
-            "color_heading_highlight_dark": "rgba(0,0,0,0)"
-          }
-        },
-        "template--21416161116461__16906cbb-53b2-453b-98d3-60126bbc109d-button-1": {
-          "type": "button",
-          "settings": {
-            "button_label": "More Info",
-            "button_link": "",
-            "open_new_window": false,
-            "show_button_style": "primary",
-            "button_light": "rgba(0,0,0,0)",
-            "button_text_light": "rgba(0,0,0,0)",
-            "button_hover_light": "rgba(0,0,0,0)",
-            "button_text_hover_light": "rgba(0,0,0,0)",
-            "secondary_button_light": "rgba(0,0,0,0)",
-            "secondary_button_text_light": "rgba(0,0,0,0)",
-            "colors_text_link": "rgba(0,0,0,0)",
-            "button_dark": "rgba(0,0,0,0)",
-            "button_text_dark": "rgba(0,0,0,0)",
-            "button_hover_dark": "rgba(0,0,0,0)",
-            "button_text_hover_dark": "rgba(0,0,0,0)",
-            "secondary_button_dark": "rgba(0,0,0,0)",
-            "secondary_button_text_dark": "rgba(0,0,0,0)",
-            "colors_text_link_dark": "rgba(0,0,0,0)"
-          }
-        }
-      },
-      "block_order": [
-        "template--21416161116461__16906cbb-53b2-453b-98d3-60126bbc109d-heading-1",
-        "template--21416161116461__16906cbb-53b2-453b-98d3-60126bbc109d-button-1"
-      ],
-      "settings": {
-        "show_sound_control": false,
-        "video_url": "",
-        "video_alt_text": "",
-        "enable_video_autoplay": false,
-        "desktop_height": "550px",
-        "mobile_height": "400px",
-        "desktop_image_width": "large",
-        "image_layout": "normal",
-        "image_corner_radius": 0,
-        "content_layout": "no-overlap",
-        "spacing_image": false,
-        "text_position": "center",
-        "text_alignment": "start",
-        "background_color_light": "#f6f6f0",
-        "background_color_dark": "#2a2a2a",
-        "line_border": "dashed",
-        "icon_position": "col",
-        "icon_size": 45,
-        "alignment": "center",
-        "columns_desktop": 4,
-        "columns_mobile": "2",
-        "heading_color_light": "rgba(0,0,0,0)",
-        "text_color_light": "rgba(0,0,0,0)",
-        "line_border_light": "rgba(0,0,0,0)",
-        "icon_color_light": "rgba(0,0,0,0)",
-        "heading_color_dark": "rgba(0,0,0,0)",
-        "text_color_dark": "rgba(0,0,0,0)",
-        "line_border_dark": "rgba(0,0,0,0)",
-        "icon_color_dark": "rgba(0,0,0,0)",
-        "image_alignment": "right",
-        "full_width": true,
-        "padding_full_width": false,
-        "top_padding": 4,
-        "bottom_padding": 0,
-        "image_alignment_mobile": "left",
-        "full_width_mobile": true,
-        "top_padding_mobile": 4,
-        "bottom_padding_mobile": 0
-      }
-    },
     "47ef2f4e-6a8e-4db1-a733-3513b9c0997d": {
       "type": "multicolumn",
       "blocks": {
@@ -519,9 +339,8 @@
     }
   },
   "order": [
+    "1761051973f64964de",
     "main",
-    "112bd756-97fc-43b2-874a-75a863bb6bf7",
-    "16906cbb-53b2-453b-98d3-60126bbc109d",
     "47ef2f4e-6a8e-4db1-a733-3513b9c0997d",
     "product-recommendations"
   ]
