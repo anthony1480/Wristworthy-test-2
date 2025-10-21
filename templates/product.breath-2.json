@@ -228,98 +228,77 @@
         "padding_bottom_mobile": 20
       }
     },
-    "47ef2f4e-6a8e-4db1-a733-3513b9c0997d": {
-      "type": "multicolumn",
+    "flash_sale_pwfXVt": {
+      "type": "flash-sale",
       "blocks": {
-        "template--21381747048749__47ef2f4e-6a8e-4db1-a733-3513b9c0997d-column-1": {
-          "type": "column",
+        "image_banner_B6KPPD": {
+          "type": "image_banner",
           "settings": {
-            "icon": "check-mark",
-            "another_icon": "",
-            "custom_icon": "",
-            "title": "High-Quality Materials",
+            "heading": "Black friday sale Just Started",
             "highlight_type": "underline",
-            "title_link": "",
-            "open_new_window": false,
             "heading_size": 100,
-            "text": "<p>We only sell the best of quality</p>"
+            "heading_tag": "h2",
+            "text": "<p>Hurry up! Benefit of up to 20% OFF on your orders</p>",
+            "text_size": 100,
+            "coupon_code": "",
+            "coupon_color": "rgba(0,0,0,0)",
+            "coupon_color_dark": "rgba(0,0,0,0)"
           }
         },
-        "template--21381747048749__47ef2f4e-6a8e-4db1-a733-3513b9c0997d-column-2": {
-          "type": "column",
+        "countdown_timer_AEwKeB": {
+          "type": "countdown_timer",
           "settings": {
-            "icon": "box",
-            "another_icon": "",
-            "custom_icon": "",
-            "title": "Lifetime Warranty",
-            "highlight_type": "underline",
-            "title_link": "",
-            "open_new_window": false,
-            "heading_size": 100,
-            "text": "<p>All of our products are 100% guarranteed and have a Lifetime warranty</p>"
-          }
-        },
-        "template--21381747048749__47ef2f4e-6a8e-4db1-a733-3513b9c0997d-column-3": {
-          "type": "column",
-          "settings": {
-            "icon": "megaphone",
-            "another_icon": "",
-            "custom_icon": "",
-            "title": "FREE DELIVERY",
-            "highlight_type": "underline",
-            "title_link": "",
-            "open_new_window": false,
-            "heading_size": 100,
-            "text": "<p>We have Free delivery all around Lebanon</p>"
+            "timezone": "-4",
+            "end_year": 2025,
+            "end_month": "11",
+            "end_day": "10",
+            "end_hour": "0",
+            "end_minute": "0",
+            "timer_style": "square",
+            "border_style": "line_vertical",
+            "overlay_opacity": 100,
+            "timer_color_countdown": "rgba(0,0,0,0)",
+            "text_color_countdown": "rgba(0,0,0,0)",
+            "bg_color_countdown": "rgba(0,0,0,0)",
+            "spacing_col": 40,
+            "spacing_col_mobile": 8
           }
         }
       },
       "block_order": [
-        "template--21381747048749__47ef2f4e-6a8e-4db1-a733-3513b9c0997d-column-1",
-        "template--21381747048749__47ef2f4e-6a8e-4db1-a733-3513b9c0997d-column-2",
-        "template--21381747048749__47ef2f4e-6a8e-4db1-a733-3513b9c0997d-column-3"
+        "image_banner_B6KPPD",
+        "countdown_timer_AEwKeB"
       ],
+      "name": "t:sections.flash-sale.presets.name",
       "settings": {
-        "title": "",
-        "highlight_type": "underline",
-        "heading_size": 100,
-        "heading_tag": "h2",
-        "secondary_background": "none",
-        "border_column": "line_vertical",
-        "column_content_alignment": "center",
-        "icon_position": "above",
-        "icon_size": 50,
-        "enable_desktop_slider": true,
-        "swiper_on_mobile": true,
-        "auto_play": true,
-        "change_bar_every": 3,
-        "background_color_light": "#ededdd",
+        "image_overlay_opacity": 0,
+        "show_hero": false,
+        "border_section": "dotted",
+        "content_layout": "horizontal",
+        "content_alignment": "left",
+        "full_width": false,
+        "padding_full_width": false,
+        "rounded_corner_image": true,
+        "spacing_col": 40,
+        "spacing_row": 32,
+        "padding_top": 0,
+        "padding_bottom": 28,
+        "content_alignment_mobile": "center",
+        "full_width_mobile": false,
+        "rounded_corner_image_mobile": true,
+        "spacing_row_mobile": 20,
+        "padding_top_mobile": 0,
+        "padding_bottom_mobile": 20,
+        "background_color_light": "rgba(0,0,0,0)",
         "heading_light": "rgba(0,0,0,0)",
         "text_light": "rgba(0,0,0,0)",
         "color_heading_highlight_light": "rgba(0,0,0,0)",
         "line_border_light": "rgba(0,0,0,0)",
-        "color_icon_light": "rgba(0,0,0,0)",
-        "background_color_dark": "#2a2a2a",
+        "background_color_dark": "rgba(0,0,0,0)",
         "heading_dark": "rgba(0,0,0,0)",
         "text_dark": "rgba(0,0,0,0)",
         "color_heading_highlight_dark": "rgba(0,0,0,0)",
-        "line_border_dark": "rgba(0,0,0,0)",
-        "color_icon_dark": "rgba(0,0,0,0)",
-        "column_layout_desktop": "lg:w-1/3",
-        "section_height_desktop": "md:py-7",
-        "spacing_desktop": 40,
-        "full_width": false,
-        "padding_full_width": false,
-        "show_section_divider": false,
-        "padding_top": 28,
-        "padding_bottom": 28,
-        "column_layout_mobile": "w-full",
-        "section_height_mobile": "py-5",
-        "spacing_mobile": 16,
-        "full_width_mobile": false,
-        "show_section_divider_mobile": false,
-        "padding_top_mobile": 20,
-        "padding_bottom_mobile": 4
+        "line_border_dark": "rgba(0,0,0,0)"
       }
     },
     "video_slider_38nfKK": {
@@ -457,12 +436,107 @@
         "border_thickness": 0,
         "lazy": true
       }
+    },
+    "47ef2f4e-6a8e-4db1-a733-3513b9c0997d": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--21381747048749__47ef2f4e-6a8e-4db1-a733-3513b9c0997d-column-1": {
+          "type": "column",
+          "settings": {
+            "icon": "check-mark",
+            "another_icon": "",
+            "custom_icon": "",
+            "title": "High-Quality Materials",
+            "highlight_type": "underline",
+            "title_link": "",
+            "open_new_window": false,
+            "heading_size": 100,
+            "text": "<p>We only sell the best of quality</p>"
+          }
+        },
+        "template--21381747048749__47ef2f4e-6a8e-4db1-a733-3513b9c0997d-column-2": {
+          "type": "column",
+          "settings": {
+            "icon": "box",
+            "another_icon": "",
+            "custom_icon": "",
+            "title": "Lifetime Warranty",
+            "highlight_type": "underline",
+            "title_link": "",
+            "open_new_window": false,
+            "heading_size": 100,
+            "text": "<p>All of our products are 100% guarranteed and have a Lifetime warranty</p>"
+          }
+        },
+        "template--21381747048749__47ef2f4e-6a8e-4db1-a733-3513b9c0997d-column-3": {
+          "type": "column",
+          "settings": {
+            "icon": "megaphone",
+            "another_icon": "",
+            "custom_icon": "",
+            "title": "FREE DELIVERY",
+            "highlight_type": "underline",
+            "title_link": "",
+            "open_new_window": false,
+            "heading_size": 100,
+            "text": "<p>We have Free delivery all around Lebanon</p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--21381747048749__47ef2f4e-6a8e-4db1-a733-3513b9c0997d-column-1",
+        "template--21381747048749__47ef2f4e-6a8e-4db1-a733-3513b9c0997d-column-2",
+        "template--21381747048749__47ef2f4e-6a8e-4db1-a733-3513b9c0997d-column-3"
+      ],
+      "settings": {
+        "title": "",
+        "highlight_type": "underline",
+        "heading_size": 100,
+        "heading_tag": "h2",
+        "secondary_background": "none",
+        "border_column": "line_vertical",
+        "column_content_alignment": "center",
+        "icon_position": "above",
+        "icon_size": 50,
+        "enable_desktop_slider": true,
+        "swiper_on_mobile": true,
+        "auto_play": true,
+        "change_bar_every": 3,
+        "background_color_light": "#ededdd",
+        "heading_light": "rgba(0,0,0,0)",
+        "text_light": "rgba(0,0,0,0)",
+        "color_heading_highlight_light": "rgba(0,0,0,0)",
+        "line_border_light": "rgba(0,0,0,0)",
+        "color_icon_light": "rgba(0,0,0,0)",
+        "background_color_dark": "#2a2a2a",
+        "heading_dark": "rgba(0,0,0,0)",
+        "text_dark": "rgba(0,0,0,0)",
+        "color_heading_highlight_dark": "rgba(0,0,0,0)",
+        "line_border_dark": "rgba(0,0,0,0)",
+        "color_icon_dark": "rgba(0,0,0,0)",
+        "column_layout_desktop": "lg:w-1/3",
+        "section_height_desktop": "md:py-7",
+        "spacing_desktop": 40,
+        "full_width": false,
+        "padding_full_width": false,
+        "show_section_divider": false,
+        "padding_top": 28,
+        "padding_bottom": 28,
+        "column_layout_mobile": "w-full",
+        "section_height_mobile": "py-5",
+        "spacing_mobile": 16,
+        "full_width_mobile": false,
+        "show_section_divider_mobile": false,
+        "padding_top_mobile": 20,
+        "padding_bottom_mobile": 4
+      }
     }
   },
   "order": [
     "1761051973f64964de",
     "main",
     "product-recommendations",
+    "flash_sale_pwfXVt",
     "video_slider_38nfKK",
     "47ef2f4e-6a8e-4db1-a733-3513b9c0997d"
   ]
