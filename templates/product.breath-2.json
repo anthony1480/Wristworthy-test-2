@@ -36,26 +36,11 @@
           "type": "quantity_selector",
           "settings": {}
         },
-        "ffacb41b-c15e-41ee-864a-cfbf155d407d": {
-          "type": "estimate_delivery",
+        "size_chart_XK9cL3": {
+          "type": "size_chart",
           "settings": {
-            "hide_when_pre_order": false,
-            "message": "<p>Estimated delivery between <strong>earliest_delivery_date and latest_delivery_date.</strong></p>",
-            "tooltip_text": "",
-            "tooltip_icon": "none",
-            "custom_icon": "",
-            "tooltip_icon_position": "left",
-            "tooltip_message": "",
-            "show_background": true,
-            "box_type": "round",
-            "background_color_light": "#e4edfa",
-            "message_color_light": "#568ddd",
-            "background_color_dark": "#122540",
-            "message_color_dark": "#568ddd",
-            "bg_tooltip_color_light": "rgba(0,0,0,0)",
-            "tooltip_color_light": "rgba(0,0,0,0)",
-            "bg_tooltip_color_dark": "rgba(0,0,0,0)",
-            "tooltip_color_dark": "rgba(0,0,0,0)"
+            "heading": "Size chart",
+            "select_page": "sizing-chart"
           }
         },
         "buy_buttons": {
@@ -89,19 +74,26 @@
             "secondary_button_text_dark": "rgba(0,0,0,0)"
           }
         },
-        "description": {
-          "type": "description",
+        "ffacb41b-c15e-41ee-864a-cfbf155d407d": {
+          "type": "estimate_delivery",
           "settings": {
-            "show_in_tab": true,
-            "open_by_default": false,
-            "make_content_center": false,
-            "icon": "none",
-            "another_icon": "",
+            "hide_when_pre_order": false,
+            "message": "<p>Estimated delivery between <strong>earliest_delivery_date and latest_delivery_date.</strong></p>",
+            "tooltip_text": "",
+            "tooltip_icon": "none",
             "custom_icon": "",
-            "heading": "Description",
-            "number_of_lines_shown": "none",
-            "read_more_label": "Read more",
-            "see_less_label": "See less"
+            "tooltip_icon_position": "left",
+            "tooltip_message": "",
+            "show_background": true,
+            "box_type": "round",
+            "background_color_light": "#e4edfa",
+            "message_color_light": "#568ddd",
+            "background_color_dark": "#122540",
+            "message_color_dark": "#568ddd",
+            "bg_tooltip_color_light": "rgba(0,0,0,0)",
+            "tooltip_color_light": "rgba(0,0,0,0)",
+            "bg_tooltip_color_dark": "rgba(0,0,0,0)",
+            "tooltip_color_dark": "rgba(0,0,0,0)"
           }
         },
         "collapsible-row-0": {
@@ -112,8 +104,8 @@
             "another_icon": "",
             "custom_icon": "",
             "use_secondary_background": false,
-            "heading": "Returns + Exchanges",
-            "tab_content": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.</p>"
+            "heading": "Description and Details",
+            "tab_content": "<p>We’re passionate about delivering jewelry that doesn’t just look beautiful — it lasts. Every bracelet is tested for durability, comfort, and shine, so you can wear your favorite pieces with confidence</p>"
           }
         },
         "1813c9bc-c533-41cf-a0aa-e7c3cafeed97": {
@@ -124,13 +116,21 @@
             "another_icon": "",
             "custom_icon": "",
             "use_secondary_background": false,
-            "heading": "Giving Back",
-            "tab_content": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.</p>"
+            "heading": "Shipping Information",
+            "tab_content": "<p>We Offer fast Free shipping all around Lebanon</p>"
           }
         },
-        "social-sharing": {
-          "type": "social_sharing",
-          "settings": {}
+        "collapsible_tab_CrrMrz": {
+          "type": "collapsible_tab",
+          "settings": {
+            "open_by_default": false,
+            "icon": "none",
+            "another_icon": "",
+            "custom_icon": "",
+            "use_secondary_background": false,
+            "heading": "Life Time Warranty Policy",
+            "tab_content": "<p>We offer lifetime warranty on all of our products as we trust our quality so much.</p>"
+          }
         },
         "sticky-atc": {
           "type": "sticky_add_to_cart",
@@ -145,12 +145,12 @@
         "price",
         "variant_picker",
         "quantity_selector",
-        "ffacb41b-c15e-41ee-864a-cfbf155d407d",
+        "size_chart_XK9cL3",
         "buy_buttons",
-        "description",
+        "ffacb41b-c15e-41ee-864a-cfbf155d407d",
         "collapsible-row-0",
         "1813c9bc-c533-41cf-a0aa-e7c3cafeed97",
-        "social-sharing",
+        "collapsible_tab_CrrMrz",
         "sticky-atc"
       ],
       "settings": {
