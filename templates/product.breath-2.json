@@ -199,115 +199,6 @@
         "padding_bottom_mobile": 28
       }
     },
-    "47ef2f4e-6a8e-4db1-a733-3513b9c0997d": {
-      "type": "multicolumn",
-      "blocks": {
-        "template--21381747048749__47ef2f4e-6a8e-4db1-a733-3513b9c0997d-column-1": {
-          "type": "column",
-          "settings": {
-            "icon": "plane",
-            "another_icon": "",
-            "custom_icon": "",
-            "title": "Shipping & Return",
-            "highlight_type": "underline",
-            "title_link": "",
-            "open_new_window": false,
-            "heading_size": 100,
-            "text": "<p>If your aren't perfect, return them within 30 days for a full refund.</p>"
-          }
-        },
-        "template--21381747048749__47ef2f4e-6a8e-4db1-a733-3513b9c0997d-column-2": {
-          "type": "column",
-          "settings": {
-            "icon": "box",
-            "another_icon": "",
-            "custom_icon": "",
-            "title": "Safe Payment",
-            "highlight_type": "underline",
-            "title_link": "",
-            "open_new_window": false,
-            "heading_size": 100,
-            "text": "<p>Pay with the world's most popular and secure payment methods</p>"
-          }
-        },
-        "template--21381747048749__47ef2f4e-6a8e-4db1-a733-3513b9c0997d-column-3": {
-          "type": "column",
-          "settings": {
-            "icon": "megaphone",
-            "another_icon": "",
-            "custom_icon": "",
-            "title": "Shop with Confidence",
-            "highlight_type": "underline",
-            "title_link": "",
-            "open_new_window": false,
-            "heading_size": 100,
-            "text": "<p>Our Buyer Protection covers your purchase from click to delivery.</p>"
-          }
-        },
-        "template--21381747048749__47ef2f4e-6a8e-4db1-a733-3513b9c0997d-column-4": {
-          "type": "column",
-          "settings": {
-            "icon": "clock",
-            "another_icon": "",
-            "custom_icon": "",
-            "title": "Shipping & Return",
-            "highlight_type": "underline",
-            "title_link": "",
-            "open_new_window": false,
-            "heading_size": 100,
-            "text": "<p>If your plant aren't perfect, return them within 30 days</p>"
-          }
-        }
-      },
-      "block_order": [
-        "template--21381747048749__47ef2f4e-6a8e-4db1-a733-3513b9c0997d-column-1",
-        "template--21381747048749__47ef2f4e-6a8e-4db1-a733-3513b9c0997d-column-2",
-        "template--21381747048749__47ef2f4e-6a8e-4db1-a733-3513b9c0997d-column-3",
-        "template--21381747048749__47ef2f4e-6a8e-4db1-a733-3513b9c0997d-column-4"
-      ],
-      "settings": {
-        "title": "",
-        "highlight_type": "underline",
-        "heading_size": 100,
-        "heading_tag": "h2",
-        "secondary_background": "none",
-        "border_column": "line_vertical",
-        "column_content_alignment": "center",
-        "icon_position": "above",
-        "icon_size": 33,
-        "enable_desktop_slider": true,
-        "swiper_on_mobile": true,
-        "auto_play": true,
-        "change_bar_every": 5,
-        "background_color_light": "#ededdd",
-        "heading_light": "rgba(0,0,0,0)",
-        "text_light": "rgba(0,0,0,0)",
-        "color_heading_highlight_light": "rgba(0,0,0,0)",
-        "line_border_light": "rgba(0,0,0,0)",
-        "color_icon_light": "rgba(0,0,0,0)",
-        "background_color_dark": "#2a2a2a",
-        "heading_dark": "rgba(0,0,0,0)",
-        "text_dark": "rgba(0,0,0,0)",
-        "color_heading_highlight_dark": "rgba(0,0,0,0)",
-        "line_border_dark": "rgba(0,0,0,0)",
-        "color_icon_dark": "rgba(0,0,0,0)",
-        "column_layout_desktop": "lg:w-1/4",
-        "section_height_desktop": "md:py-7",
-        "spacing_desktop": 40,
-        "full_width": false,
-        "padding_full_width": false,
-        "show_section_divider": false,
-        "padding_top": 28,
-        "padding_bottom": 28,
-        "column_layout_mobile": "w-full",
-        "section_height_mobile": "py-5",
-        "spacing_mobile": 16,
-        "full_width_mobile": false,
-        "show_section_divider_mobile": false,
-        "padding_top_mobile": 20,
-        "padding_bottom_mobile": 4
-      }
-    },
     "product-recommendations": {
       "type": "product-recommendations",
       "settings": {
@@ -336,12 +227,243 @@
         "padding_top_mobile": 16,
         "padding_bottom_mobile": 20
       }
+    },
+    "47ef2f4e-6a8e-4db1-a733-3513b9c0997d": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--21381747048749__47ef2f4e-6a8e-4db1-a733-3513b9c0997d-column-1": {
+          "type": "column",
+          "settings": {
+            "icon": "check-mark",
+            "another_icon": "",
+            "custom_icon": "",
+            "title": "High-Quality Materials",
+            "highlight_type": "underline",
+            "title_link": "",
+            "open_new_window": false,
+            "heading_size": 100,
+            "text": "<p>We only sell the best of quality</p>"
+          }
+        },
+        "template--21381747048749__47ef2f4e-6a8e-4db1-a733-3513b9c0997d-column-2": {
+          "type": "column",
+          "settings": {
+            "icon": "box",
+            "another_icon": "",
+            "custom_icon": "",
+            "title": "Lifetime Warranty",
+            "highlight_type": "underline",
+            "title_link": "",
+            "open_new_window": false,
+            "heading_size": 100,
+            "text": "<p>All of our products are 100% guarranteed and have a Lifetime warranty</p>"
+          }
+        },
+        "template--21381747048749__47ef2f4e-6a8e-4db1-a733-3513b9c0997d-column-3": {
+          "type": "column",
+          "settings": {
+            "icon": "megaphone",
+            "another_icon": "",
+            "custom_icon": "",
+            "title": "FREE DELIVERY",
+            "highlight_type": "underline",
+            "title_link": "",
+            "open_new_window": false,
+            "heading_size": 100,
+            "text": "<p>We have Free delivery all around Lebanon</p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--21381747048749__47ef2f4e-6a8e-4db1-a733-3513b9c0997d-column-1",
+        "template--21381747048749__47ef2f4e-6a8e-4db1-a733-3513b9c0997d-column-2",
+        "template--21381747048749__47ef2f4e-6a8e-4db1-a733-3513b9c0997d-column-3"
+      ],
+      "settings": {
+        "title": "",
+        "highlight_type": "underline",
+        "heading_size": 100,
+        "heading_tag": "h2",
+        "secondary_background": "none",
+        "border_column": "line_vertical",
+        "column_content_alignment": "center",
+        "icon_position": "above",
+        "icon_size": 50,
+        "enable_desktop_slider": true,
+        "swiper_on_mobile": true,
+        "auto_play": true,
+        "change_bar_every": 3,
+        "background_color_light": "#ededdd",
+        "heading_light": "rgba(0,0,0,0)",
+        "text_light": "rgba(0,0,0,0)",
+        "color_heading_highlight_light": "rgba(0,0,0,0)",
+        "line_border_light": "rgba(0,0,0,0)",
+        "color_icon_light": "rgba(0,0,0,0)",
+        "background_color_dark": "#2a2a2a",
+        "heading_dark": "rgba(0,0,0,0)",
+        "text_dark": "rgba(0,0,0,0)",
+        "color_heading_highlight_dark": "rgba(0,0,0,0)",
+        "line_border_dark": "rgba(0,0,0,0)",
+        "color_icon_dark": "rgba(0,0,0,0)",
+        "column_layout_desktop": "lg:w-1/3",
+        "section_height_desktop": "md:py-7",
+        "spacing_desktop": 40,
+        "full_width": false,
+        "padding_full_width": false,
+        "show_section_divider": false,
+        "padding_top": 28,
+        "padding_bottom": 28,
+        "column_layout_mobile": "w-full",
+        "section_height_mobile": "py-5",
+        "spacing_mobile": 16,
+        "full_width_mobile": false,
+        "show_section_divider_mobile": false,
+        "padding_top_mobile": 20,
+        "padding_bottom_mobile": 4
+      }
+    },
+    "video_slider_38nfKK": {
+      "type": "video-slider",
+      "blocks": {
+        "slide_JkXpjw": {
+          "type": "slide",
+          "settings": {
+            "video": "shopify://files/videos/vd 1 for website .mp4",
+            "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+            "title": "Brilliant",
+            "stars_count": 5
+          }
+        },
+        "slide_KDNA7m": {
+          "type": "slide",
+          "settings": {
+            "video": "shopify://files/videos/vd 3 for website .mp4",
+            "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+            "title": "Elegant",
+            "stars_count": 5
+          }
+        },
+        "slide_Akn88V": {
+          "type": "slide",
+          "settings": {
+            "video": "shopify://files/videos/vd 2 for website .mp4",
+            "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+            "title": "Love",
+            "stars_count": 5
+          }
+        },
+        "slide_3e94rF": {
+          "type": "slide",
+          "settings": {
+            "video": "shopify://files/videos/vd  5 for website .mp4",
+            "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+            "title": "Luxurious",
+            "stars_count": 5
+          }
+        }
+      },
+      "block_order": [
+        "slide_JkXpjw",
+        "slide_KDNA7m",
+        "slide_Akn88V",
+        "slide_3e94rF"
+      ],
+      "name": "Dex - Video Slider",
+      "settings": {
+        "slider_view": 5,
+        "slider_view_mobile": 1.5,
+        "slider_gap": 10,
+        "slider_gap_mobile": 10,
+        "slider_rotate": 0,
+        "card_padding_vertical": 20,
+        "card_padding_vertical_mobile": 20,
+        "card_padding_horizontal": 20,
+        "card_padding_horizontal_mobile": 20,
+        "card_radius": 16,
+        "card_border_thickness": 0,
+        "card_shadow": false,
+        "card_ratio": "portrait",
+        "card_ratio_mobile": "portrait",
+        "card_overlay": 0.2,
+        "content_horizontal_position": "center",
+        "content_horizontal_position_mobile": "center",
+        "content_vertical_position": "end",
+        "content_vertical_position_mobile": "end",
+        "title_custom": false,
+        "title_font": "josefin_sans_n4",
+        "title_size": 16,
+        "title_size_mobile": 16,
+        "title_height": 100,
+        "stars_size": 16,
+        "stars_size_mobile": 16,
+        "stars_mt": 16,
+        "stars_mt_mobile": 16,
+        "hide_stars": false,
+        "use_action": true,
+        "action_size": 40,
+        "action_size_mobile": 40,
+        "action_icon_size": 24,
+        "action_icon_size_mobile": 24,
+        "action_border_thickness": 0,
+        "use_sound": true,
+        "sound_size": 40,
+        "sound_size_mobile": 40,
+        "sound_icon_size": 24,
+        "sound_icon_size_mobile": 24,
+        "sound_border_thickness": 0,
+        "arrow_size": 48,
+        "arrow_size_mobile": 48,
+        "arrow_icon_size": 8,
+        "arrow_icon_size_mobile": 8,
+        "arrow_border_thickness": 0,
+        "arrow_radius": 100,
+        "arrow_hover_effect": "color",
+        "arrow_show_desktop": true,
+        "arrow_show_mobile": false,
+        "card_border_color": "#000000",
+        "card_shadow_color": "#000000",
+        "card_overlay_color": "#000000",
+        "title_color": "#FFFFFF",
+        "stars_color": "#FFFFFF",
+        "action_color": "#FFFFFF",
+        "action_hover_color": "#FFFFFF",
+        "action_bg_color": "#FFFFFF",
+        "action_bg_hover_color": "#FFFFFF",
+        "action_border_color": "#FFFFFF",
+        "action_border_hover_color": "#FFFFFF",
+        "sound_icon_color": "#FFFFFF",
+        "sound_icon_hover_color": "#FFFFFF",
+        "sound_bg_color": "#FFFFFF",
+        "sound_bg_hover_color": "#FFFFFF",
+        "sound_border_color": "#FFFFFF",
+        "sound_border_hover_color": "#FFFFFF",
+        "arrow_color": "#FFFFFF",
+        "arrow_hover_color": "#434343",
+        "arrow_bg_color": "#434343",
+        "arrow_bg_hover_color": "#FFFFFF",
+        "arrow_border_color": "#000000",
+        "arrow_border_hover_color": "#000000",
+        "background_color": "#FFFFFF",
+        "background_gradient": "",
+        "border_color": "#000000",
+        "margin_top": 0,
+        "margin_bottom": 0,
+        "padding_top": 36,
+        "padding_bottom": 36,
+        "padding_horizontal": 0,
+        "padding_horizontal_mobile": 0,
+        "full_width": false,
+        "content_width": 120,
+        "border_thickness": 0,
+        "lazy": true
+      }
     }
   },
   "order": [
     "1761051973f64964de",
     "main",
-    "47ef2f4e-6a8e-4db1-a733-3513b9c0997d",
-    "product-recommendations"
+    "product-recommendations",
+    "video_slider_38nfKK",
+    "47ef2f4e-6a8e-4db1-a733-3513b9c0997d"
   ]
 }
