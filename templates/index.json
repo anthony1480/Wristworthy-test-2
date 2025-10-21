@@ -833,8 +833,8 @@
             "icon": "heart",
             "another_icon": "",
             "custom_icon": "",
-            "heading": "Frequently asked question",
-            "row_content": "<p>Use this text to answer questions in as much detail as possible for your customers.</p>"
+            "heading": "What is the return policy?",
+            "row_content": "<p>We offer a lifetime warranty so shop with peace of mind</p>"
           }
         },
         "frequently_asked_question_dXXn8L": {
@@ -843,8 +843,8 @@
             "icon": "heart",
             "another_icon": "",
             "custom_icon": "",
-            "heading": "Frequently asked question",
-            "row_content": "<p>Use this text to answer questions in as much detail as possible for your customers.</p>"
+            "heading": "What is your quality?",
+            "row_content": "<p>We offer Premium Bracelets to keep your <strong>hand fancy</strong> and <strong>wallet healthy</strong> :)</p>"
           }
         },
         "frequently_asked_question_V7GWkh": {
@@ -853,8 +853,8 @@
             "icon": "heart",
             "another_icon": "",
             "custom_icon": "",
-            "heading": "Frequently asked question",
-            "row_content": "<p>Use this text to answer questions in as much detail as possible for your customers.</p>"
+            "heading": "When will I get my order?",
+            "row_content": "<p>We deliver all around Lebanon in 1-4 days maximum so if you just ordered, <strong>we're coming :)</strong></p>"
           }
         },
         "frequently_asked_question_3p8mBH": {
@@ -863,8 +863,18 @@
             "icon": "heart",
             "another_icon": "",
             "custom_icon": "",
-            "heading": "Frequently asked question",
-            "row_content": "<p>Use this text to answer questions in as much detail as possible for your customers.</p>"
+            "heading": "What makes your products special?",
+            "row_content": "<p>Premium materials, sleek finishing, and luxury-style packaging — everything you need for a complete, ready-to-gift experience.</p>"
+          }
+        },
+        "frequently_asked_question_qa7anM": {
+          "type": "frequently_asked_question",
+          "settings": {
+            "icon": "heart",
+            "another_icon": "",
+            "custom_icon": "",
+            "heading": "How much does shipping cost?",
+            "row_content": "<p>We deliver for <strong>FREE</strong> all around Lebanon</p>"
           }
         }
       },
@@ -872,11 +882,12 @@
         "frequently_asked_question_NwEiwX",
         "frequently_asked_question_dXXn8L",
         "frequently_asked_question_V7GWkh",
-        "frequently_asked_question_3p8mBH"
+        "frequently_asked_question_3p8mBH",
+        "frequently_asked_question_qa7anM"
       ],
       "name": "t:sections.question_and_answer.presets.name",
       "settings": {
-        "heading": "FAQs",
+        "heading": "Your questions, answered",
         "highlight_type": "underline",
         "heading_size": 100,
         "heading_tag": "h2",
@@ -884,7 +895,7 @@
         "show_border": false,
         "row_background": false,
         "collapsible": true,
-        "show_view_all": true,
+        "show_view_all": false,
         "view_all_position": "top",
         "button_link": "",
         "open_new_window": false,
