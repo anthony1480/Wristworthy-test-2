@@ -14,31 +14,6 @@
     "announcement-bar": {
       "type": "announcement-bar",
       "blocks": {
-        "announcement_znGnRq": {
-          "type": "announcement",
-          "settings": {
-            "icon": "none",
-            "another_icon": "",
-            "custom_icon": "",
-            "text": "LUXURIOUS PACKAGING FOR ALL ORDERS",
-            "text_size": 80,
-            "link": "",
-            "open_new_window": false,
-            "button_label_or_code": "",
-            "button_link": "",
-            "open_new_window_button": false,
-            "button_color": "rgba(0,0,0,0)",
-            "button_text_color": "rgba(0,0,0,0)",
-            "button_color_dark": "rgba(0,0,0,0)",
-            "button_text_color_dark": "rgba(0,0,0,0)",
-            "timezone": "-4",
-            "end_year": 2023,
-            "end_month": "1",
-            "end_day": "1",
-            "end_hour": "1",
-            "end_minute": "0"
-          }
-        },
         "announcement-bar-0": {
           "type": "announcement",
           "settings": {
@@ -88,12 +63,37 @@
             "end_hour": "1",
             "end_minute": "0"
           }
+        },
+        "announcement_znGnRq": {
+          "type": "announcement",
+          "settings": {
+            "icon": "none",
+            "another_icon": "",
+            "custom_icon": "",
+            "text": "LUXURIOUS PACKAGING FOR ALL ORDERS",
+            "text_size": 80,
+            "link": "",
+            "open_new_window": false,
+            "button_label_or_code": "",
+            "button_link": "",
+            "open_new_window_button": false,
+            "button_color": "rgba(0,0,0,0)",
+            "button_text_color": "rgba(0,0,0,0)",
+            "button_color_dark": "rgba(0,0,0,0)",
+            "button_text_color_dark": "rgba(0,0,0,0)",
+            "timezone": "-4",
+            "end_year": 2023,
+            "end_month": "1",
+            "end_day": "1",
+            "end_hour": "1",
+            "end_minute": "0"
+          }
         }
       },
       "block_order": [
-        "announcement_znGnRq",
         "announcement-bar-0",
-        "announcement_xWGAxQ"
+        "announcement_xWGAxQ",
+        "announcement_znGnRq"
       ],
       "settings": {
         "enable": true,
