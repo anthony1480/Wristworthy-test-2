@@ -129,7 +129,7 @@
         "show_copyright": true,
         "add_copyright_text": "",
         "additional_layout": "horizontal",
-        "show_powered": true,
+        "show_powered": false,
         "enable_follow_on_shop": false,
         "top_padding": 0,
         "bottom_padding": 40,
