@@ -837,6 +837,16 @@
             "row_content": "<p>We offer a lifetime warranty so shop with peace of mind</p>"
           }
         },
+        "frequently_asked_question_7ntFGh": {
+          "type": "frequently_asked_question",
+          "settings": {
+            "icon": "heart",
+            "another_icon": "",
+            "custom_icon": "",
+            "heading": "What if my bracelet doesn’t fit perfectly?",
+            "row_content": "<p>We provide<strong> free extra pieces for link bracelets</strong> that you can use to adjust at any watches shop, or <strong>easy exchanges</strong> for all other styles.</p>"
+          }
+        },
         "frequently_asked_question_dXXn8L": {
           "type": "frequently_asked_question",
           "settings": {
@@ -880,6 +890,7 @@
       },
       "block_order": [
         "frequently_asked_question_NwEiwX",
+        "frequently_asked_question_7ntFGh",
         "frequently_asked_question_dXXn8L",
         "frequently_asked_question_V7GWkh",
         "frequently_asked_question_3p8mBH",
