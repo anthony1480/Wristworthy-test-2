@@ -82,9 +82,9 @@
           "type": "text",
           "settings": {
             "text": "<p>You'll get extra links that are easily adjustable for every size :)</p>",
-            "number_of_lines_shown": "none",
-            "read_more_label": "Read more",
-            "see_less_label": "See less"
+            "number_of_lines_shown": "small",
+            "read_more_label": "",
+            "see_less_label": ""
           }
         },
         "ffacb41b-c15e-41ee-864a-cfbf155d407d": {
