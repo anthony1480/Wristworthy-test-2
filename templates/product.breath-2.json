@@ -80,6 +80,7 @@
         },
         "text_NLymxK": {
           "type": "text",
+          "disabled": true,
           "settings": {
             "text": "<p>You'll get extra links that are easily adjustable for every size :)</p>",
             "number_of_lines_shown": "small",
@@ -119,6 +120,18 @@
             "use_secondary_background": false,
             "heading": "Description and Details",
             "tab_content": "<p>We’re passionate about delivering jewelry that doesn’t just look beautiful — it lasts. Every bracelet is tested for durability, comfort, and shine, so you can wear your favorite pieces with confidence</p>"
+          }
+        },
+        "collapsible_tab_rfEU8t": {
+          "type": "collapsible_tab",
+          "settings": {
+            "open_by_default": false,
+            "icon": "none",
+            "another_icon": "",
+            "custom_icon": "",
+            "use_secondary_background": false,
+            "heading": "Sizing",
+            "tab_content": "<p>We provide <strong>free extra pieces for link bracelets</strong> that you can use to adjust at any watches shop, or <strong>easy exchanges</strong> for all other styles.</p>"
           }
         },
         "1813c9bc-c533-41cf-a0aa-e7c3cafeed97": {
@@ -163,6 +176,7 @@
         "text_NLymxK",
         "ffacb41b-c15e-41ee-864a-cfbf155d407d",
         "collapsible-row-0",
+        "collapsible_tab_rfEU8t",
         "1813c9bc-c533-41cf-a0aa-e7c3cafeed97",
         "collapsible_tab_CrrMrz",
         "sticky-atc"
