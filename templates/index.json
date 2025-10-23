@@ -147,7 +147,7 @@
       "settings": {
         "show_hero": false,
         "auto_play": true,
-        "change_slides_speed": 5,
+        "change_slides_speed": 4,
         "pause_hover": true,
         "show_arrow": false,
         "slider_visual": "bars",
