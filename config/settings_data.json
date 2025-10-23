@@ -198,6 +198,16 @@
         "type": "shopify://apps/whatflow-whatsapp-automation/blocks/whatsapp_chat_button/ea957967-ac26-4ed9-a3f0-e749fab355ab",
         "disabled": true,
         "settings": {}
+      },
+      "13223602749629917723": {
+        "type": "shopify://apps/kaching-cart/blocks/embed/7705621e-3c0f-4e97-9d29-5c8528b19fb7",
+        "disabled": false,
+        "settings": {}
+      },
+      "11989736685688860011": {
+        "type": "shopify://apps/easy-variant-images/blocks/embed_via/bfecabd5-49af-4d37-8214-f0f4649f4cb3",
+        "disabled": false,
+        "settings": {}
       }
     }
   },
