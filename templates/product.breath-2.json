@@ -565,7 +565,17 @@
             "another_icon": "",
             "custom_icon": "",
             "heading": "Is it real silver and gold",
-            "row_content": "<p>We use 316L stainless steel with high-quality PVD coating so no rust, no fade, even with water. So you won't see any difference, and what's even better is that we have a Lifetime Warranty on all of our prodiucts</p>"
+            "row_content": "<p>We use premium grade stainless steel with high-quality coating so no rust, no fade, even with WATER!</p>"
+          }
+        },
+        "frequently_asked_question_QRXzpP": {
+          "type": "frequently_asked_question",
+          "settings": {
+            "icon": "check-mark",
+            "another_icon": "",
+            "custom_icon": "",
+            "heading": "Is it real silver and gold",
+            "row_content": "<p>We use premium grade stainless steel with high-quality coating so no rust, no fade, even with WATER!</p>"
           }
         },
         "frequently_asked_question_b8PxkH": {
@@ -575,7 +585,7 @@
             "another_icon": "",
             "custom_icon": "",
             "heading": "Can I wear this in the shower or while swimming?",
-            "row_content": "<p>Yes offcourse you can, it does not rust or even change any colors so you can swim, shower and keep it on anywhere you go.</p>"
+            "row_content": "<p>Yes, you can! Our pieces are fully waterproof, won’t tarnish or change color, and come with a lifetime warranty for your peace of mind.</p>"
           }
         },
         "frequently_asked_question_KkUJRF": {
@@ -585,7 +595,7 @@
             "another_icon": "",
             "custom_icon": "",
             "heading": "How are the bracelets packaged?",
-            "row_content": "<p>We have an original packaging that suits gifts, stories and anything you can think of. Very sleek, elegantly designed to fit any event</p>"
+            "row_content": "<p>Each bracelet comes in its original signature packaging with cards — sleek, elegant, and ready for gifting. Perfectly crafted to make any occasion feel special.</p>"
           }
         },
         "frequently_asked_question_nnHDiQ": {
@@ -595,12 +605,13 @@
             "another_icon": "",
             "custom_icon": "",
             "heading": "Do you offer warranty?",
-            "row_content": "<p>Yes we do trust our quality so much that we offer lifetime warranty, no questions asked</p>"
+            "row_content": "<p>Yes, we do. We believe in our quality so much that every piece comes with a <strong>lifetime warranty</strong> — no questions asked.</p>"
           }
         }
       },
       "block_order": [
         "frequently_asked_question_THLDdH",
+        "frequently_asked_question_QRXzpP",
         "frequently_asked_question_b8PxkH",
         "frequently_asked_question_KkUJRF",
         "frequently_asked_question_nnHDiQ"
