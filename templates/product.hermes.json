@@ -611,6 +611,109 @@
         "padding_top_mobile": 20,
         "padding_bottom_mobile": 4
       }
+    },
+    "testimonials_qCE93U": {
+      "type": "testimonials",
+      "blocks": {
+        "testimonial_bLHkPz": {
+          "type": "testimonial",
+          "settings": {
+            "icon_star": "quote",
+            "custom_icon": "",
+            "title": "Testimonials",
+            "text": "<p>Add customer reviews and testimonials to showcase your store's happy customers</p>",
+            "author": "Add a caption",
+            "author_note": "",
+            "product": ""
+          }
+        },
+        "testimonial_G6gFM3": {
+          "type": "testimonial",
+          "settings": {
+            "icon_star": "quote",
+            "custom_icon": "",
+            "title": "Testimonials",
+            "text": "<p>Add customer reviews and testimonials to showcase your store's happy customers</p>",
+            "author": "Add a caption",
+            "author_note": "",
+            "product": ""
+          }
+        },
+        "testimonial_kQb7JB": {
+          "type": "testimonial",
+          "settings": {
+            "icon_star": "quote",
+            "custom_icon": "",
+            "title": "Testimonials",
+            "text": "<p>Add customer reviews and testimonials to showcase your store's happy customers</p>",
+            "author": "Add a caption",
+            "author_note": "",
+            "product": ""
+          }
+        },
+        "testimonial_w9dbiM": {
+          "type": "testimonial",
+          "settings": {
+            "icon_star": "quote",
+            "custom_icon": "",
+            "title": "Testimonials",
+            "text": "<p>Add customer reviews and testimonials to showcase your store's happy customers</p>",
+            "author": "Add a caption",
+            "author_note": "",
+            "product": ""
+          }
+        },
+        "testimonial_8gmKdM": {
+          "type": "testimonial",
+          "settings": {
+            "icon_star": "quote",
+            "custom_icon": "",
+            "title": "Testimonials",
+            "text": "<p>Add customer reviews and testimonials to showcase your store's happy customers</p>",
+            "author": "Add a caption",
+            "author_note": "",
+            "product": ""
+          }
+        }
+      },
+      "block_order": [
+        "testimonial_bLHkPz",
+        "testimonial_G6gFM3",
+        "testimonial_kQb7JB",
+        "testimonial_w9dbiM",
+        "testimonial_8gmKdM"
+      ],
+      "name": "t:sections.testimonials.presets.name",
+      "settings": {
+        "heading": "Testimonials",
+        "highlight_type": "underline",
+        "heading_size": 100,
+        "heading_tag": "h2",
+        "text_alignment": "center",
+        "testimonial_items_view": "multiple",
+        "show_arrow": true,
+        "show_pagination": false,
+        "auto_play": false,
+        "change_slides_speed": 5,
+        "show_author_image": true,
+        "author_image": "top",
+        "image_ratio": "round",
+        "desktop_height": 300,
+        "background_color_light": "rgba(0,0,0,0)",
+        "item_background_color_light": "rgba(0,0,0,0)",
+        "heading_and_title_light": "rgba(0,0,0,0)",
+        "item_text_color_light": "rgba(0,0,0,0)",
+        "background_color_dark": "rgba(0,0,0,0)",
+        "item_background_color_dark": "rgba(0,0,0,0)",
+        "heading_and_title_dark": "rgba(0,0,0,0)",
+        "item_text_color_dark": "rgba(0,0,0,0)",
+        "show_section_divider": false,
+        "top_padding": 28,
+        "bottom_padding": 28,
+        "show_section_divider_mobile": false,
+        "top_padding_mobile": 20,
+        "bottom_padding_mobile": 20
+      }
     }
   },
   "order": [
@@ -620,6 +723,7 @@
     "flash_sale_pwfXVt",
     "video_slider_38nfKK",
     "faq_mRyz9d",
-    "47ef2f4e-6a8e-4db1-a733-3513b9c0997d"
+    "47ef2f4e-6a8e-4db1-a733-3513b9c0997d",
+    "testimonials_qCE93U"
   ]
 }
