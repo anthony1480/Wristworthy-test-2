@@ -194,11 +194,6 @@
     "checkout_error_color": "#E12B28",
     "content_for_index": [],
     "blocks": {
-      "4275615285897611771": {
-        "type": "shopify://apps/fera/blocks/embed/2fbfcfa7-8a04-479f-89a8-0621fa099c51",
-        "disabled": false,
-        "settings": {}
-      },
       "5685434155906765400": {
         "type": "shopify://apps/whatflow-whatsapp-automation/blocks/whatsapp_chat_button/ea957967-ac26-4ed9-a3f0-e749fab355ab",
         "disabled": true,
@@ -211,6 +206,11 @@
       },
       "11989736685688860011": {
         "type": "shopify://apps/easy-variant-images/blocks/embed_via/bfecabd5-49af-4d37-8214-f0f4649f4cb3",
+        "disabled": false,
+        "settings": {}
+      },
+      "3782161271425840822": {
+        "type": "shopify://apps/ns-color-swatch-variant-images/blocks/nestscale_product_variant/53eb5ed4-3892-414c-808b-3ea84516b10d",
         "disabled": false,
         "settings": {}
       }
