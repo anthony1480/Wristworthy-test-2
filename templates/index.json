@@ -175,7 +175,7 @@
           "settings": {
             "text": "Premium Experience",
             "highlight_type": "underline",
-            "text_size": 100,
+            "text_size": 120,
             "text_color": "primary",
             "spacing_left": 0,
             "spacing_right": 0,
