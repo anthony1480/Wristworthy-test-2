@@ -169,7 +169,7 @@
     "order_amount_freeshipping": "US:USD: 0",
     "enable_estimate_shipping": true,
     "estimate_delivery_min": "2",
-    "estimate_delivery_max": "5",
+    "estimate_delivery_max": "4",
     "estimate_delivery_cutoff_hour": "12",
     "show_estimate_cart": true,
     "show_in_cart_items": "show_item",
