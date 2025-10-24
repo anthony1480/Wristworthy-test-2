@@ -111,7 +111,7 @@
     "message_preorder": "",
     "products_color_swatches_enable_on_collection_page": true,
     "replace_color_with_variant_images": false,
-    "color_option_values": "'Silver and gold: Gold_Silver.png'",
+    "color_option_values": "Gold Silver Stripes: #D3D3D3#D49A06",
     "text_option_name": "",
     "text_option_values": "'Gold silver: Gold_Silver.png'",
     "products_color_swatches_style": "round",
@@ -206,11 +206,6 @@
       },
       "11989736685688860011": {
         "type": "shopify://apps/easy-variant-images/blocks/embed_via/bfecabd5-49af-4d37-8214-f0f4649f4cb3",
-        "disabled": false,
-        "settings": {}
-      },
-      "3782161271425840822": {
-        "type": "shopify://apps/ns-color-swatch-variant-images/blocks/nestscale_product_variant/53eb5ed4-3892-414c-808b-3ea84516b10d",
         "disabled": false,
         "settings": {}
       }
