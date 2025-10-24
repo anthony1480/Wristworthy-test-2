@@ -258,11 +258,11 @@
         "image_banner_B6KPPD": {
           "type": "image_banner",
           "settings": {
-            "heading": "Black friday sale Just Started",
+            "heading": "Get 15% When buying 2 and 20% On 3+",
             "highlight_type": "underline",
             "heading_size": 100,
             "heading_tag": "h2",
-            "text": "<p>Hurry up! Benefit of up to 20% OFF on your orders</p>",
+            "text": "<p> Benefit of up to 20% OFF on your orders when ordering 3+</p>",
             "text_size": 100,
             "coupon_code": "",
             "coupon_color": "rgba(0,0,0,0)",
