@@ -461,6 +461,100 @@
         "lazy": true
       }
     },
+    "testimonials_KUWnMp": {
+      "type": "testimonials",
+      "blocks": {
+        "testimonial_CmW49J": {
+          "type": "testimonial",
+          "settings": {
+            "icon_star": "quote",
+            "custom_icon": "",
+            "title": "Very high quality",
+            "text": "<p>I loved it and it looks so good on my hand</p>",
+            "author_image": "shopify://shop_images/WhatsApp_Image_2025-10-15_at_13.09.58_4.jpg",
+            "author": "Ali",
+            "author_note": "",
+            "product": "boss-link-bracelet"
+          }
+        },
+        "testimonial_hfGfmt": {
+          "type": "testimonial",
+          "settings": {
+            "icon_star": "quote",
+            "custom_icon": "",
+            "title": "Ktirrr helwinnn",
+            "text": "<p>Bi janinoo ktirr habaytunn</p>",
+            "author_image": "shopify://shop_images/WhatsApp_Image_2025-10-15_at_13.09.59_1.jpg",
+            "author": "Cynthia",
+            "author_note": "",
+            "product": "hermes-women-s-bracelet"
+          }
+        },
+        "testimonial_MrKijX": {
+          "type": "testimonial",
+          "settings": {
+            "icon_star": "quote",
+            "custom_icon": "",
+            "title": "I loveee itt!!!",
+            "text": "<p>It's very high quality and the packaging is awesomee</p>",
+            "author_image": "shopify://shop_images/WhatsApp_Image_2025-10-15_at_13.11.28.jpg",
+            "author": "Chris",
+            "author_note": "",
+            "product": "lacoste-silver-crocodile-bracelet"
+          }
+        },
+        "testimonial_Rerf6i": {
+          "type": "testimonial",
+          "settings": {
+            "icon_star": "quote",
+            "custom_icon": "",
+            "title": "Very high quality",
+            "text": "<p>I loved them and definitely will order again</p>",
+            "author_image": "shopify://shop_images/WhatsApp_Image_2025-10-15_at_13.09.58_3.jpg",
+            "author": "Hassan",
+            "author_note": "",
+            "product": "hermes-men-s-bracelet"
+          }
+        }
+      },
+      "block_order": [
+        "testimonial_CmW49J",
+        "testimonial_hfGfmt",
+        "testimonial_MrKijX",
+        "testimonial_Rerf6i"
+      ],
+      "name": "t:sections.testimonials.presets.name",
+      "settings": {
+        "heading": "Our Reviews",
+        "highlight_type": "underline",
+        "heading_size": 100,
+        "heading_tag": "h2",
+        "text_alignment": "start",
+        "testimonial_items_view": "single",
+        "show_arrow": true,
+        "show_pagination": false,
+        "auto_play": false,
+        "change_slides_speed": 5,
+        "show_author_image": true,
+        "author_image": "top",
+        "image_ratio": "round",
+        "desktop_height": 300,
+        "background_color_light": "rgba(0,0,0,0)",
+        "item_background_color_light": "rgba(0,0,0,0)",
+        "heading_and_title_light": "rgba(0,0,0,0)",
+        "item_text_color_light": "rgba(0,0,0,0)",
+        "background_color_dark": "rgba(0,0,0,0)",
+        "item_background_color_dark": "rgba(0,0,0,0)",
+        "heading_and_title_dark": "rgba(0,0,0,0)",
+        "item_text_color_dark": "rgba(0,0,0,0)",
+        "show_section_divider": false,
+        "top_padding": 28,
+        "bottom_padding": 28,
+        "show_section_divider_mobile": false,
+        "top_padding_mobile": 20,
+        "bottom_padding_mobile": 20
+      }
+    },
     "faq_mRyz9d": {
       "type": "faq",
       "blocks": {
@@ -635,100 +729,6 @@
         "padding_top_mobile": 20,
         "padding_bottom_mobile": 4
       }
-    },
-    "testimonials_KUWnMp": {
-      "type": "testimonials",
-      "blocks": {
-        "testimonial_CmW49J": {
-          "type": "testimonial",
-          "settings": {
-            "icon_star": "quote",
-            "custom_icon": "",
-            "title": "Very high quality",
-            "text": "<p>I loved it and it looks so good on my hand</p>",
-            "author_image": "shopify://shop_images/WhatsApp_Image_2025-10-15_at_13.09.58_4.jpg",
-            "author": "Ali",
-            "author_note": "",
-            "product": "boss-link-bracelet"
-          }
-        },
-        "testimonial_hfGfmt": {
-          "type": "testimonial",
-          "settings": {
-            "icon_star": "quote",
-            "custom_icon": "",
-            "title": "Ktirrr helwinnn",
-            "text": "<p>Bi janinoo ktirr habaytunn</p>",
-            "author_image": "shopify://shop_images/WhatsApp_Image_2025-10-15_at_13.09.59_1.jpg",
-            "author": "Cynthia",
-            "author_note": "",
-            "product": "hermes-women-s-bracelet"
-          }
-        },
-        "testimonial_MrKijX": {
-          "type": "testimonial",
-          "settings": {
-            "icon_star": "quote",
-            "custom_icon": "",
-            "title": "I loveee itt!!!",
-            "text": "<p>It's very high quality and the packaging is awesomee</p>",
-            "author_image": "shopify://shop_images/WhatsApp_Image_2025-10-15_at_13.11.28.jpg",
-            "author": "Chris",
-            "author_note": "",
-            "product": "lacoste-silver-crocodile-bracelet"
-          }
-        },
-        "testimonial_Rerf6i": {
-          "type": "testimonial",
-          "settings": {
-            "icon_star": "quote",
-            "custom_icon": "",
-            "title": "Very high quality",
-            "text": "<p>I loved them and definitely will order again</p>",
-            "author_image": "shopify://shop_images/WhatsApp_Image_2025-10-15_at_13.09.58_3.jpg",
-            "author": "Hassan",
-            "author_note": "",
-            "product": "hermes-men-s-bracelet"
-          }
-        }
-      },
-      "block_order": [
-        "testimonial_CmW49J",
-        "testimonial_hfGfmt",
-        "testimonial_MrKijX",
-        "testimonial_Rerf6i"
-      ],
-      "name": "t:sections.testimonials.presets.name",
-      "settings": {
-        "heading": "Our Reviews",
-        "highlight_type": "underline",
-        "heading_size": 100,
-        "heading_tag": "h2",
-        "text_alignment": "start",
-        "testimonial_items_view": "single",
-        "show_arrow": true,
-        "show_pagination": false,
-        "auto_play": false,
-        "change_slides_speed": 5,
-        "show_author_image": true,
-        "author_image": "top",
-        "image_ratio": "round",
-        "desktop_height": 300,
-        "background_color_light": "rgba(0,0,0,0)",
-        "item_background_color_light": "rgba(0,0,0,0)",
-        "heading_and_title_light": "rgba(0,0,0,0)",
-        "item_text_color_light": "rgba(0,0,0,0)",
-        "background_color_dark": "rgba(0,0,0,0)",
-        "item_background_color_dark": "rgba(0,0,0,0)",
-        "heading_and_title_dark": "rgba(0,0,0,0)",
-        "item_text_color_dark": "rgba(0,0,0,0)",
-        "show_section_divider": false,
-        "top_padding": 28,
-        "bottom_padding": 28,
-        "show_section_divider_mobile": false,
-        "top_padding_mobile": 20,
-        "bottom_padding_mobile": 20
-      }
     }
   },
   "order": [
@@ -737,8 +737,8 @@
     "product-recommendations",
     "flash_sale_pwfXVt",
     "video_slider_38nfKK",
+    "testimonials_KUWnMp",
     "faq_mRyz9d",
-    "47ef2f4e-6a8e-4db1-a733-3513b9c0997d",
-    "testimonials_KUWnMp"
+    "47ef2f4e-6a8e-4db1-a733-3513b9c0997d"
   ]
 }
