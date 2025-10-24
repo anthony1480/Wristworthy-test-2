@@ -370,7 +370,7 @@
         "text_alignment": "start",
         "testimonial_items_view": "single",
         "show_arrow": true,
-        "show_pagination": false,
+        "show_pagination": true,
         "auto_play": true,
         "change_slides_speed": 3,
         "show_author_image": true,
