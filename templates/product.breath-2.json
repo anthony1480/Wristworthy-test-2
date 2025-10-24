@@ -644,11 +644,12 @@
           "settings": {
             "icon_star": "quote",
             "custom_icon": "",
-            "title": "Testimonials",
-            "text": "<p>Add customer reviews and testimonials to showcase your store's happy customers</p>",
-            "author": "Add a caption",
+            "title": "Very high quality",
+            "text": "<p>I loved it and it looks so good on my hand</p>",
+            "author_image": "shopify://shop_images/WhatsApp_Image_2025-10-15_at_13.09.58_4.jpg",
+            "author": "Ali",
             "author_note": "",
-            "product": ""
+            "product": "boss-link-bracelet"
           }
         },
         "testimonial_hfGfmt": {
@@ -656,11 +657,12 @@
           "settings": {
             "icon_star": "quote",
             "custom_icon": "",
-            "title": "Testimonials",
-            "text": "<p>Add customer reviews and testimonials to showcase your store's happy customers</p>",
-            "author": "Add a caption",
+            "title": "Ktirrr helwinnn",
+            "text": "<p>Bi janinoo ktirr habaytunn</p>",
+            "author_image": "shopify://shop_images/WhatsApp_Image_2025-10-15_at_13.09.59_1.jpg",
+            "author": "Cynthia",
             "author_note": "",
-            "product": ""
+            "product": "hermes-women-s-bracelet"
           }
         },
         "testimonial_MrKijX": {
@@ -668,11 +670,12 @@
           "settings": {
             "icon_star": "quote",
             "custom_icon": "",
-            "title": "Testimonials",
-            "text": "<p>Add customer reviews and testimonials to showcase your store's happy customers</p>",
-            "author": "Add a caption",
+            "title": "I loveee itt!!!",
+            "text": "<p>It's very high quality and the packaging is awesomee</p>",
+            "author_image": "shopify://shop_images/WhatsApp_Image_2025-10-15_at_13.11.28.jpg",
+            "author": "Chris",
             "author_note": "",
-            "product": ""
+            "product": "lacoste-silver-crocodile-bracelet"
           }
         },
         "testimonial_Rerf6i": {
@@ -680,23 +683,12 @@
           "settings": {
             "icon_star": "quote",
             "custom_icon": "",
-            "title": "Testimonials",
-            "text": "<p>Add customer reviews and testimonials to showcase your store's happy customers</p>",
-            "author": "Add a caption",
+            "title": "Very high quality",
+            "text": "<p>I loved them and definitely will order again</p>",
+            "author_image": "shopify://shop_images/WhatsApp_Image_2025-10-15_at_13.09.58_3.jpg",
+            "author": "Hassan",
             "author_note": "",
-            "product": ""
-          }
-        },
-        "testimonial_D97Wqa": {
-          "type": "testimonial",
-          "settings": {
-            "icon_star": "quote",
-            "custom_icon": "",
-            "title": "Testimonials",
-            "text": "<p>Add customer reviews and testimonials to showcase your store's happy customers</p>",
-            "author": "Add a caption",
-            "author_note": "",
-            "product": ""
+            "product": "hermes-men-s-bracelet"
           }
         }
       },
@@ -704,17 +696,16 @@
         "testimonial_CmW49J",
         "testimonial_hfGfmt",
         "testimonial_MrKijX",
-        "testimonial_Rerf6i",
-        "testimonial_D97Wqa"
+        "testimonial_Rerf6i"
       ],
       "name": "t:sections.testimonials.presets.name",
       "settings": {
-        "heading": "Testimonials",
+        "heading": "Our Reviews",
         "highlight_type": "underline",
         "heading_size": 100,
         "heading_tag": "h2",
-        "text_alignment": "center",
-        "testimonial_items_view": "multiple",
+        "text_alignment": "start",
+        "testimonial_items_view": "single",
         "show_arrow": true,
         "show_pagination": false,
         "auto_play": false,
