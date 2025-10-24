@@ -437,6 +437,114 @@
         "lazy": true
       }
     },
+    "testimonials_qCE93U": {
+      "type": "testimonials",
+      "blocks": {
+        "testimonial_bLHkPz": {
+          "type": "testimonial",
+          "settings": {
+            "icon_star": "quote",
+            "custom_icon": "",
+            "title": "Wow, this is the perfect gift",
+            "text": "<p>I am in love with it and it's really good quality plus it was the perfect gift.</p>",
+            "author_image": "shopify://shop_images/WhatsApp_Image_2025-10-15_at_13.09.58_5.jpg",
+            "author": "Jena",
+            "author_note": "",
+            "product": "boss-link-bracelet"
+          }
+        },
+        "testimonial_G6gFM3": {
+          "type": "testimonial",
+          "settings": {
+            "icon_star": "quote",
+            "custom_icon": "",
+            "title": "The packaging is amazing",
+            "text": "<p>I loved the packaging and the quality is out of this world</p>",
+            "author_image": "shopify://shop_images/WhatsApp_Image_2025-10-15_at_13.09.58_1.jpg",
+            "author": "Sara",
+            "author_note": "",
+            "product": "hermes-women-s-bracelet"
+          }
+        },
+        "testimonial_kQb7JB": {
+          "type": "testimonial",
+          "settings": {
+            "icon_star": "quote",
+            "custom_icon": "",
+            "title": "It's amazingg!!",
+            "text": "<p>I am in love with it!!</p>",
+            "author_image": "shopify://shop_images/WhatsApp_Image_2025-10-15_at_13.09.57.jpg",
+            "author": "Mariam",
+            "author_note": "",
+            "product": ""
+          }
+        },
+        "testimonial_w9dbiM": {
+          "type": "testimonial",
+          "settings": {
+            "icon_star": "quote",
+            "custom_icon": "",
+            "title": "Really good quality",
+            "text": "<p>I love it and can't take it off</p>",
+            "author_image": "shopify://shop_images/WhatsApp_Image_2025-10-15_at_13.09.58.jpg",
+            "author": "Karl",
+            "author_note": "",
+            "product": "lacoste-gold-link-bracelet"
+          }
+        },
+        "testimonial_8gmKdM": {
+          "type": "testimonial",
+          "settings": {
+            "icon_star": "quote",
+            "custom_icon": "",
+            "title": "I love it soo much",
+            "text": "<p>I am in love with the packaging, with the design and everything</p>",
+            "author_image": "shopify://shop_images/WhatsApp_Image_2025-10-15_at_13.11.31.jpg",
+            "author": "Clara",
+            "author_note": "",
+            "product": ""
+          }
+        }
+      },
+      "block_order": [
+        "testimonial_bLHkPz",
+        "testimonial_G6gFM3",
+        "testimonial_kQb7JB",
+        "testimonial_w9dbiM",
+        "testimonial_8gmKdM"
+      ],
+      "name": "t:sections.testimonials.presets.name",
+      "settings": {
+        "heading": "Our Reviews",
+        "highlight_type": "underline",
+        "heading_size": 100,
+        "heading_tag": "h2",
+        "text_alignment": "start",
+        "testimonial_items_view": "single",
+        "show_arrow": true,
+        "show_pagination": false,
+        "auto_play": false,
+        "change_slides_speed": 5,
+        "show_author_image": true,
+        "author_image": "top",
+        "image_ratio": "round",
+        "desktop_height": 450,
+        "background_color_light": "rgba(0,0,0,0)",
+        "item_background_color_light": "rgba(0,0,0,0)",
+        "heading_and_title_light": "rgba(0,0,0,0)",
+        "item_text_color_light": "rgba(0,0,0,0)",
+        "background_color_dark": "rgba(0,0,0,0)",
+        "item_background_color_dark": "rgba(0,0,0,0)",
+        "heading_and_title_dark": "rgba(0,0,0,0)",
+        "item_text_color_dark": "rgba(0,0,0,0)",
+        "show_section_divider": false,
+        "top_padding": 28,
+        "bottom_padding": 28,
+        "show_section_divider_mobile": false,
+        "top_padding_mobile": 20,
+        "bottom_padding_mobile": 20
+      }
+    },
     "faq_mRyz9d": {
       "type": "faq",
       "blocks": {
@@ -611,114 +719,6 @@
         "padding_top_mobile": 20,
         "padding_bottom_mobile": 4
       }
-    },
-    "testimonials_qCE93U": {
-      "type": "testimonials",
-      "blocks": {
-        "testimonial_bLHkPz": {
-          "type": "testimonial",
-          "settings": {
-            "icon_star": "quote",
-            "custom_icon": "",
-            "title": "Wow, this is the perfect gift",
-            "text": "<p>I am in love with it and it's really good quality plus it was the perfect gift.</p>",
-            "author_image": "shopify://shop_images/WhatsApp_Image_2025-10-15_at_13.09.58_5.jpg",
-            "author": "Jena",
-            "author_note": "",
-            "product": "boss-link-bracelet"
-          }
-        },
-        "testimonial_G6gFM3": {
-          "type": "testimonial",
-          "settings": {
-            "icon_star": "quote",
-            "custom_icon": "",
-            "title": "The packaging is amazing",
-            "text": "<p>I loved the packaging and the quality is out of this world</p>",
-            "author_image": "shopify://shop_images/WhatsApp_Image_2025-10-15_at_13.09.58_1.jpg",
-            "author": "Sara",
-            "author_note": "",
-            "product": "hermes-women-s-bracelet"
-          }
-        },
-        "testimonial_kQb7JB": {
-          "type": "testimonial",
-          "settings": {
-            "icon_star": "quote",
-            "custom_icon": "",
-            "title": "It's amazingg!!",
-            "text": "<p>I am in love with it!!</p>",
-            "author_image": "shopify://shop_images/WhatsApp_Image_2025-10-15_at_13.09.57.jpg",
-            "author": "Mariam",
-            "author_note": "",
-            "product": ""
-          }
-        },
-        "testimonial_w9dbiM": {
-          "type": "testimonial",
-          "settings": {
-            "icon_star": "quote",
-            "custom_icon": "",
-            "title": "Really good quality",
-            "text": "<p>I love it and can't take it off</p>",
-            "author_image": "shopify://shop_images/WhatsApp_Image_2025-10-15_at_13.09.58.jpg",
-            "author": "Karl",
-            "author_note": "",
-            "product": "lacoste-gold-link-bracelet"
-          }
-        },
-        "testimonial_8gmKdM": {
-          "type": "testimonial",
-          "settings": {
-            "icon_star": "quote",
-            "custom_icon": "",
-            "title": "I love it soo much",
-            "text": "<p>I am in love with the packaging, with the design and everything</p>",
-            "author_image": "shopify://shop_images/WhatsApp_Image_2025-10-15_at_13.11.31.jpg",
-            "author": "Clara",
-            "author_note": "",
-            "product": "hermes-women-s-bracelet"
-          }
-        }
-      },
-      "block_order": [
-        "testimonial_bLHkPz",
-        "testimonial_G6gFM3",
-        "testimonial_kQb7JB",
-        "testimonial_w9dbiM",
-        "testimonial_8gmKdM"
-      ],
-      "name": "t:sections.testimonials.presets.name",
-      "settings": {
-        "heading": "Our Reviews",
-        "highlight_type": "underline",
-        "heading_size": 100,
-        "heading_tag": "h2",
-        "text_alignment": "start",
-        "testimonial_items_view": "single",
-        "show_arrow": true,
-        "show_pagination": false,
-        "auto_play": false,
-        "change_slides_speed": 5,
-        "show_author_image": true,
-        "author_image": "top",
-        "image_ratio": "round",
-        "desktop_height": 450,
-        "background_color_light": "rgba(0,0,0,0)",
-        "item_background_color_light": "rgba(0,0,0,0)",
-        "heading_and_title_light": "rgba(0,0,0,0)",
-        "item_text_color_light": "rgba(0,0,0,0)",
-        "background_color_dark": "rgba(0,0,0,0)",
-        "item_background_color_dark": "rgba(0,0,0,0)",
-        "heading_and_title_dark": "rgba(0,0,0,0)",
-        "item_text_color_dark": "rgba(0,0,0,0)",
-        "show_section_divider": false,
-        "top_padding": 28,
-        "bottom_padding": 28,
-        "show_section_divider_mobile": false,
-        "top_padding_mobile": 20,
-        "bottom_padding_mobile": 20
-      }
     }
   },
   "order": [
@@ -727,8 +727,8 @@
     "product-recommendations",
     "flash_sale_pwfXVt",
     "video_slider_38nfKK",
+    "testimonials_qCE93U",
     "faq_mRyz9d",
-    "47ef2f4e-6a8e-4db1-a733-3513b9c0997d",
-    "testimonials_qCE93U"
+    "47ef2f4e-6a8e-4db1-a733-3513b9c0997d"
   ]
 }
