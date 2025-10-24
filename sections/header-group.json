@@ -191,27 +191,11 @@
         "highlight_color_light": "#6b7050",
         "highlight_color_dark": "rgba(0,0,0,0)"
       }
-    },
-    "176130825975227f33": {
-      "type": "apps",
-      "blocks": {
-        "kwik_booster_kwik_booster_GgbNLV": {
-          "type": "shopify://apps/kwik-booster/blocks/kwik-booster/fc61c79e-84cc-43aa-96d7-3c14109f275c",
-          "settings": {}
-        }
-      },
-      "block_order": [
-        "kwik_booster_kwik_booster_GgbNLV"
-      ],
-      "settings": {
-        "include_margins": true
-      }
     }
   },
   "order": [
     "announcement-bar",
     "header",
-    "mobile-navigation",
-    "176130825975227f33"
+    "mobile-navigation"
   ]
 }
