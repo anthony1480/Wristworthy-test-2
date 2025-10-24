@@ -443,7 +443,7 @@
         "testimonial_bLHkPz": {
           "type": "testimonial",
           "settings": {
-            "icon_star": "quote",
+            "icon_star": "5_star",
             "custom_icon": "",
             "title": "Wow, this is the perfect gift",
             "text": "<p>I am in love with it and it's really good quality plus it was the perfect gift.</p>",
@@ -456,7 +456,7 @@
         "testimonial_G6gFM3": {
           "type": "testimonial",
           "settings": {
-            "icon_star": "quote",
+            "icon_star": "5_star",
             "custom_icon": "",
             "title": "The packaging is amazing",
             "text": "<p>I loved the packaging and the quality is out of this world</p>",
@@ -469,7 +469,7 @@
         "testimonial_kQb7JB": {
           "type": "testimonial",
           "settings": {
-            "icon_star": "quote",
+            "icon_star": "5_star",
             "custom_icon": "",
             "title": "It's amazingg!!",
             "text": "<p>I am in love with it!!</p>",
@@ -482,7 +482,7 @@
         "testimonial_w9dbiM": {
           "type": "testimonial",
           "settings": {
-            "icon_star": "quote",
+            "icon_star": "5_star",
             "custom_icon": "",
             "title": "Really good quality",
             "text": "<p>I love it and can't take it off</p>",
@@ -495,7 +495,7 @@
         "testimonial_8gmKdM": {
           "type": "testimonial",
           "settings": {
-            "icon_star": "quote",
+            "icon_star": "5_star",
             "custom_icon": "",
             "title": "I love it soo much",
             "text": "<p>I am in love with the packaging, with the design and everything</p>",
