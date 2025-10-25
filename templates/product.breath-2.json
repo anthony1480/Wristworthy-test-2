@@ -140,7 +140,7 @@
           "type": "collapsible_tab",
           "settings": {
             "open_by_default": false,
-            "icon": "none",
+            "icon": "truck",
             "another_icon": "",
             "custom_icon": "",
             "use_secondary_background": false,
@@ -152,7 +152,7 @@
           "type": "collapsible_tab",
           "settings": {
             "open_by_default": false,
-            "icon": "none",
+            "icon": "award",
             "another_icon": "",
             "custom_icon": "",
             "use_secondary_background": false,
