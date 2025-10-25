@@ -126,7 +126,7 @@
           "type": "collapsible_tab",
           "settings": {
             "open_by_default": false,
-            "icon": "washing",
+            "icon": "rulers",
             "another_icon": "",
             "custom_icon": "",
             "use_secondary_background": false,
