@@ -114,8 +114,9 @@
           "type": "collapsible_tab",
           "settings": {
             "open_by_default": false,
-            "icon": "none",
+            "icon": "iron",
             "another_icon": "",
+            "custom_image": "shopify://shop_images/diamond_png.webp",
             "custom_icon": "",
             "use_secondary_background": false,
             "heading": "Description and Details",
@@ -126,8 +127,9 @@
           "type": "collapsible_tab",
           "settings": {
             "open_by_default": false,
-            "icon": "none",
+            "icon": "another_icon",
             "another_icon": "",
+            "custom_image": "shopify://shop_images/sizing_chart_icon_c82c4c21-ffd9-4019-95fd-47de1860bcb3.png",
             "custom_icon": "",
             "use_secondary_background": false,
             "heading": "Sizing",
