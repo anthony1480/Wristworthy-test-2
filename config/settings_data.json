@@ -215,7 +215,7 @@
           "show_on_collection": true,
           "show_on_cart": true,
           "show_on_other": true,
-          "show_singleagent_popup": false,
+          "show_singleagent_popup": true,
           "popup_store_name": "default",
           "popup_header_color": "#253341",
           "popup_background_color": "#f3f3f3",
