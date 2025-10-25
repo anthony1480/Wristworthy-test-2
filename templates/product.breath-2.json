@@ -200,7 +200,7 @@
         "zoom_effect": "enlarge",
         "enable_video_autoplay": false,
         "enable_video_loop": false,
-        "show_first_image_avaiable": true,
+        "show_first_image_avaiable": false,
         "show_media_with_variant_selected": true,
         "option_to_classify_variant_media": "",
         "enable_microdata": false,
