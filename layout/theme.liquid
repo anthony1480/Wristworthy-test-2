@@ -91,7 +91,6 @@
     x-on:touchstart="if (runDispatch) { 
       if (event.target.parentNode.parentNode.id == 'SearchOpen' || event.target.parentNode.id == 'SearchOpen') { setTimeout(() => {  document.querySelector('#SearchOpen').click() }, 200) }
       if (event.target.parentNode.parentNode.id == 'cart-icon' || event.target.parentNode.id == 'cart-icon') { setTimeout(() => {  document.querySelector('#cart-icon').click() }, 200) }
-      if (event.target.parentNode.id == 'mobile-navigation' || event.target.id == 'mobile-navigation') { setTimeout(() => {  document.querySelector('#mobile-navigation').click() }, 200) }
       $dispatch('init-run'); runDispatch = false;
     }"
   >
