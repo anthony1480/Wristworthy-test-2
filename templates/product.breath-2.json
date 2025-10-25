@@ -223,35 +223,6 @@
         "padding_bottom_mobile": 28
       }
     },
-    "product-recommendations": {
-      "type": "product-recommendations",
-      "settings": {
-        "heading": "You May Also Like...",
-        "highlight_type": "underline",
-        "heading_size": 100,
-        "heading_tag": "h2",
-        "heading_alignment": "center",
-        "products_to_show": 5,
-        "background_color_light": "",
-        "background_color_dark": "",
-        "show_vendor": false,
-        "show_rating": false,
-        "show_quickview": true,
-        "enable_carousel_desktop": false,
-        "enable_swiper_mobile": true,
-        "columns_desktop": 5,
-        "full_width": true,
-        "show_section_divider": true,
-        "spacing": 20,
-        "padding_top": 60,
-        "padding_bottom": 60,
-        "columns_mobile": "2",
-        "show_section_divider_mobile": true,
-        "spacing_mobile": 16,
-        "padding_top_mobile": 16,
-        "padding_bottom_mobile": 20
-      }
-    },
     "flash_sale_pwfXVt": {
       "type": "flash-sale",
       "blocks": {
@@ -459,6 +430,35 @@
         "content_width": 120,
         "border_thickness": 0,
         "lazy": true
+      }
+    },
+    "product-recommendations": {
+      "type": "product-recommendations",
+      "settings": {
+        "heading": "You May Also Like...",
+        "highlight_type": "underline",
+        "heading_size": 100,
+        "heading_tag": "h2",
+        "heading_alignment": "center",
+        "products_to_show": 5,
+        "background_color_light": "",
+        "background_color_dark": "",
+        "show_vendor": false,
+        "show_rating": false,
+        "show_quickview": true,
+        "enable_carousel_desktop": false,
+        "enable_swiper_mobile": true,
+        "columns_desktop": 5,
+        "full_width": true,
+        "show_section_divider": true,
+        "spacing": 20,
+        "padding_top": 60,
+        "padding_bottom": 60,
+        "columns_mobile": "2",
+        "show_section_divider_mobile": true,
+        "spacing_mobile": 16,
+        "padding_top_mobile": 16,
+        "padding_bottom_mobile": 20
       }
     },
     "testimonials_KUWnMp": {
@@ -745,9 +745,9 @@
   "order": [
     "1761051973f64964de",
     "main",
-    "product-recommendations",
     "flash_sale_pwfXVt",
     "video_slider_38nfKK",
+    "product-recommendations",
     "testimonials_KUWnMp",
     "faq_mRyz9d",
     "47ef2f4e-6a8e-4db1-a733-3513b9c0997d"
