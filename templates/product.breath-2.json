@@ -114,7 +114,7 @@
           "type": "collapsible_tab",
           "settings": {
             "open_by_default": false,
-            "icon": "question-mark",
+            "icon": "star",
             "another_icon": "",
             "custom_icon": "",
             "use_secondary_background": false,
