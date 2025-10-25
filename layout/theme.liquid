@@ -85,7 +85,7 @@
   <body 
     class="gradient scrollbar-body overflow-x-hidden text-[{{ settings.text_base_size | times: 0.007875 }}rem] md:text-[{{ settings.text_base_size | times: 0.00875 }}rem]{% if settings.lang_direction contains request.locale.iso_code %} rtl{% endif %}" 
     x-data="{ runDispatch: true }"
-    :class="($store.xPopup.open || $store.xPopup.openVideoShopping) && 'overflow-hidden padding-scrollbar'" 
+    x-init="$store.xPopup.setWidthScrollbar();{% if request.design_mode %} document.addEventListener('shopify:section:load', ()=>{ runDispatch = true }){% endif %}"
     x-on:touchstart="if (runDispatch) { 
       if (event.target.parentNode.parentNode.id == 'SearchOpen' || event.target.parentNode.id == 'SearchOpen') { setTimeout(() => {  document.querySelector('#SearchOpen').click() }, 200) }
       if (event.target.parentNode.parentNode.id == 'cart-icon' || event.target.parentNode.id == 'cart-icon') { setTimeout(() => {  document.querySelector('#cart-icon').click() }, 200) }
