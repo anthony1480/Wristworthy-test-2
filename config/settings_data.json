@@ -225,8 +225,8 @@
           "welcome_message": ""
         }
       },
-      "5332588544499791172": {
-        "type": "shopify://apps/hoppy-free-shipping/blocks/shipping_bar/66159626-1fb8-4d18-901f-af7b6a63adaa",
+      "8703857832570158530": {
+        "type": "shopify://apps/opus-cart-upsell/blocks/cart-drawer-app/6a3c5cf8-b330-4c39-a8c5-80f923c2e741",
         "disabled": false,
         "settings": {}
       }
