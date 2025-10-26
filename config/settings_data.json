@@ -173,7 +173,7 @@
     "estimate_delivery_cutoff_hour": "12",
     "show_estimate_cart": true,
     "show_in_cart_items": "show_item",
-    "name_edt": "Between 5-11 Days",
+    "name_edt": "",
     "message_estimate_cart": "",
     "enable_scroll_top_desktop": true,
     "currency_code_enable": false,
