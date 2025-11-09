@@ -982,6 +982,7 @@
         "slide_8tHjEC",
         "slide_ATbk6C"
       ],
+      "disabled": true,
       "name": "Dex - Video Slider",
       "settings": {
         "slider_view": 5,
@@ -989,7 +990,7 @@
         "slider_gap": 10,
         "slider_gap_mobile": 10,
         "slider_rotate": 0,
-        "card_padding_vertical": 20,
+        "card_padding_vertical": 8,
         "card_padding_vertical_mobile": 20,
         "card_padding_horizontal": 20,
         "card_padding_horizontal_mobile": 20,
