@@ -229,6 +229,11 @@
         "type": "shopify://apps/opus-cart-upsell/blocks/cart-drawer-app/6a3c5cf8-b330-4c39-a8c5-80f923c2e741",
         "disabled": false,
         "settings": {}
+      },
+      "15885977890469162556": {
+        "type": "shopify://apps/ea-page-speed-boost/blocks/app-embed-block/b667776a-3444-4aab-a7b6-a467a3438097",
+        "disabled": false,
+        "settings": {}
       }
     }
   },
