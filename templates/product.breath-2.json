@@ -229,12 +229,12 @@
         "image_banner_B6KPPD": {
           "type": "image_banner",
           "settings": {
-            "heading": "Get 15% When buying 2 and 20% On 3+",
+            "heading": "Black November Offer!",
             "highlight_type": "underline",
             "heading_size": 100,
             "heading_tag": "h2",
-            "text": "<p> Benefit of up to 20% OFF on your orders when ordering 3+</p>",
-            "text_size": 100,
+            "text": "<p>Get 15% OFF when buying 2 and 20% On 3+</p>",
+            "text_size": 120,
             "coupon_code": "",
             "coupon_color": "rgba(0,0,0,0)",
             "coupon_color_dark": "rgba(0,0,0,0)"
@@ -246,7 +246,7 @@
             "timezone": "-4",
             "end_year": 2025,
             "end_month": "11",
-            "end_day": "15",
+            "end_day": "31",
             "end_hour": "0",
             "end_minute": "0",
             "timer_style": "square",
