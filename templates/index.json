@@ -287,113 +287,6 @@
         "padding_bottom_mobile": 28
       }
     },
-    "54f7b6ce-e4ba-42b3-9550-cde9eb5ab2b4": {
-      "type": "testimonials",
-      "blocks": {
-        "testimonial_zWjHzx": {
-          "type": "testimonial",
-          "settings": {
-            "icon_star": "5_star",
-            "custom_icon": "",
-            "title": "Loving it",
-            "text": "<p>I Wear it everywhere now and everyone asks me where i got it from.</p>",
-            "author_image": "shopify://shop_images/WhatsApp_Image_2025-10-15_at_13.09.57_1.jpg",
-            "author": "Ghinwa",
-            "author_note": "",
-            "product": "boss-chain-bracelet"
-          }
-        },
-        "testimonial_QLLP3j": {
-          "type": "testimonial",
-          "settings": {
-            "icon_star": "5_star",
-            "custom_icon": "",
-            "title": "In love",
-            "text": "<p>I love my bracelet, it's very high quality and sustainable and i even take showers with it. </p>",
-            "author_image": "shopify://shop_images/WhatsApp_Image_2025-10-15_at_13.10.00.jpg",
-            "author": "Yaghi",
-            "author_note": "",
-            "product": "lacoste-silver-crocodile-bracelet"
-          }
-        },
-        "testimonial_JnNDA7": {
-          "type": "testimonial",
-          "settings": {
-            "icon_star": "quote",
-            "custom_icon": "",
-            "title": "Very elegant",
-            "text": "<p>It's very classy and elegant and i love it.</p>",
-            "author_image": "shopify://shop_images/WhatsApp_Image_2025-10-15_at_13.09.59_2.jpg",
-            "author": "Leen",
-            "author_note": "",
-            "product": "boss-chain-bracelet"
-          }
-        },
-        "testimonial_LR8QgY": {
-          "type": "testimonial",
-          "settings": {
-            "icon_star": "5_star",
-            "custom_icon": "",
-            "title": "Inn LOVEE",
-            "text": "<p>Very high quality and durable, i am in lovveeee!!</p>",
-            "author_image": "shopify://shop_images/WhatsApp_Image_2025-10-15_at_13.09.59.jpg",
-            "author": "Reem",
-            "author_note": "",
-            "product": "hermes-women-s-bracelet"
-          }
-        },
-        "template--21828924539181__54f7b6ce-e4ba-42b3-9550-cde9eb5ab2b4-testimonial-1": {
-          "type": "testimonial",
-          "settings": {
-            "icon_star": "5_star",
-            "custom_icon": "",
-            "title": "Classy and can go anywhere",
-            "text": "",
-            "author_image": "shopify://shop_images/WhatsApp_Image_2025-10-15_at_13.11.26.jpg",
-            "author": "Mauris . L",
-            "author_note": "",
-            "product": "hermes-men-s-bracelet"
-          }
-        }
-      },
-      "block_order": [
-        "testimonial_zWjHzx",
-        "testimonial_QLLP3j",
-        "testimonial_JnNDA7",
-        "testimonial_LR8QgY",
-        "template--21828924539181__54f7b6ce-e4ba-42b3-9550-cde9eb5ab2b4-testimonial-1"
-      ],
-      "settings": {
-        "heading": "Our Reviews",
-        "highlight_type": "underline",
-        "heading_size": 100,
-        "heading_tag": "h2",
-        "text_alignment": "start",
-        "testimonial_items_view": "single",
-        "show_arrow": true,
-        "show_pagination": true,
-        "auto_play": true,
-        "change_slides_speed": 3,
-        "show_author_image": true,
-        "author_image": "top",
-        "image_ratio": "100",
-        "desktop_height": 500,
-        "background_color_light": "rgba(0,0,0,0)",
-        "item_background_color_light": "#ffffff",
-        "heading_and_title_light": "rgba(0,0,0,0)",
-        "item_text_color_light": "rgba(0,0,0,0)",
-        "background_color_dark": "rgba(0,0,0,0)",
-        "item_background_color_dark": "#202020",
-        "heading_and_title_dark": "rgba(0,0,0,0)",
-        "item_text_color_dark": "rgba(0,0,0,0)",
-        "show_section_divider": false,
-        "top_padding": 0,
-        "bottom_padding": 4,
-        "show_section_divider_mobile": false,
-        "top_padding_mobile": 20,
-        "bottom_padding_mobile": 20
-      }
-    },
     "featured_collection_PykntH": {
       "type": "featured-collection",
       "blocks": {
@@ -658,13 +551,13 @@
     "video_slider_9Bdedb": {
       "type": "video-slider",
       "blocks": {
-        "slide_UTDbCa": {
+        "slide_8tHjEC": {
           "type": "slide",
           "settings": {
-            "video": "shopify://files/videos/WhatsApp Video 2025-11-06 at 12.43.53_bd1b13bb.mp4",
-            "video_url": "",
+            "video": "shopify://files/videos/WhatsApp Video 2025-11-06 at 12.50.31_d11199ad.mp4",
+            "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
             "title": "",
-            "stars_count": 0.5
+            "stars_count": 5
           }
         },
         "slide_afgRhb": {
@@ -676,6 +569,15 @@
             "stars_count": 5
           }
         },
+        "slide_UTDbCa": {
+          "type": "slide",
+          "settings": {
+            "video": "shopify://files/videos/WhatsApp Video 2025-11-06 at 12.43.53_bd1b13bb.mp4",
+            "video_url": "",
+            "title": "",
+            "stars_count": 0.5
+          }
+        },
         "slide_Y6NtHe": {
           "type": "slide",
           "settings": {
@@ -684,22 +586,13 @@
             "title": "",
             "stars_count": 5
           }
-        },
-        "slide_8tHjEC": {
-          "type": "slide",
-          "settings": {
-            "video": "shopify://files/videos/WhatsApp Video 2025-11-06 at 12.50.31_d11199ad.mp4",
-            "video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
-            "title": "",
-            "stars_count": 5
-          }
         }
       },
       "block_order": [
-        "slide_UTDbCa",
+        "slide_8tHjEC",
         "slide_afgRhb",
-        "slide_Y6NtHe",
-        "slide_8tHjEC"
+        "slide_UTDbCa",
+        "slide_Y6NtHe"
       ],
       "name": "Dex - Video Slider",
       "settings": {
@@ -789,6 +682,113 @@
         "content_width": 120,
         "border_thickness": 0,
         "lazy": true
+      }
+    },
+    "54f7b6ce-e4ba-42b3-9550-cde9eb5ab2b4": {
+      "type": "testimonials",
+      "blocks": {
+        "testimonial_zWjHzx": {
+          "type": "testimonial",
+          "settings": {
+            "icon_star": "5_star",
+            "custom_icon": "",
+            "title": "Loving it",
+            "text": "<p>I Wear it everywhere now and everyone asks me where i got it from.</p>",
+            "author_image": "shopify://shop_images/WhatsApp_Image_2025-10-15_at_13.09.57_1.jpg",
+            "author": "Ghinwa",
+            "author_note": "",
+            "product": "boss-chain-bracelet"
+          }
+        },
+        "testimonial_QLLP3j": {
+          "type": "testimonial",
+          "settings": {
+            "icon_star": "5_star",
+            "custom_icon": "",
+            "title": "In love",
+            "text": "<p>I love my bracelet, it's very high quality and sustainable and i even take showers with it. </p>",
+            "author_image": "shopify://shop_images/WhatsApp_Image_2025-10-15_at_13.10.00.jpg",
+            "author": "Yaghi",
+            "author_note": "",
+            "product": "lacoste-silver-crocodile-bracelet"
+          }
+        },
+        "testimonial_JnNDA7": {
+          "type": "testimonial",
+          "settings": {
+            "icon_star": "quote",
+            "custom_icon": "",
+            "title": "Very elegant",
+            "text": "<p>It's very classy and elegant and i love it.</p>",
+            "author_image": "shopify://shop_images/WhatsApp_Image_2025-10-15_at_13.09.59_2.jpg",
+            "author": "Leen",
+            "author_note": "",
+            "product": "boss-chain-bracelet"
+          }
+        },
+        "testimonial_LR8QgY": {
+          "type": "testimonial",
+          "settings": {
+            "icon_star": "5_star",
+            "custom_icon": "",
+            "title": "Inn LOVEE",
+            "text": "<p>Very high quality and durable, i am in lovveeee!!</p>",
+            "author_image": "shopify://shop_images/WhatsApp_Image_2025-10-15_at_13.09.59.jpg",
+            "author": "Reem",
+            "author_note": "",
+            "product": "hermes-women-s-bracelet"
+          }
+        },
+        "template--21828924539181__54f7b6ce-e4ba-42b3-9550-cde9eb5ab2b4-testimonial-1": {
+          "type": "testimonial",
+          "settings": {
+            "icon_star": "5_star",
+            "custom_icon": "",
+            "title": "Classy and can go anywhere",
+            "text": "",
+            "author_image": "shopify://shop_images/WhatsApp_Image_2025-10-15_at_13.11.26.jpg",
+            "author": "Mauris . L",
+            "author_note": "",
+            "product": "hermes-men-s-bracelet"
+          }
+        }
+      },
+      "block_order": [
+        "testimonial_zWjHzx",
+        "testimonial_QLLP3j",
+        "testimonial_JnNDA7",
+        "testimonial_LR8QgY",
+        "template--21828924539181__54f7b6ce-e4ba-42b3-9550-cde9eb5ab2b4-testimonial-1"
+      ],
+      "settings": {
+        "heading": "Our Reviews",
+        "highlight_type": "underline",
+        "heading_size": 100,
+        "heading_tag": "h2",
+        "text_alignment": "start",
+        "testimonial_items_view": "single",
+        "show_arrow": true,
+        "show_pagination": true,
+        "auto_play": true,
+        "change_slides_speed": 3,
+        "show_author_image": true,
+        "author_image": "top",
+        "image_ratio": "100",
+        "desktop_height": 500,
+        "background_color_light": "rgba(0,0,0,0)",
+        "item_background_color_light": "#ffffff",
+        "heading_and_title_light": "rgba(0,0,0,0)",
+        "item_text_color_light": "rgba(0,0,0,0)",
+        "background_color_dark": "rgba(0,0,0,0)",
+        "item_background_color_dark": "#202020",
+        "heading_and_title_dark": "rgba(0,0,0,0)",
+        "item_text_color_dark": "rgba(0,0,0,0)",
+        "show_section_divider": false,
+        "top_padding": 0,
+        "bottom_padding": 4,
+        "show_section_divider_mobile": false,
+        "top_padding_mobile": 20,
+        "bottom_padding_mobile": 20
       }
     },
     "ec753deb-9b85-432b-ad75-2c2fd240c350": {
