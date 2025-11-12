@@ -1016,6 +1016,7 @@
         },
         "frequently_asked_question_qa7anM": {
           "type": "frequently_asked_question",
+          "disabled": true,
           "settings": {
             "icon": "heart",
             "another_icon": "",

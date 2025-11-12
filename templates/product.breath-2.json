@@ -143,7 +143,7 @@
             "custom_icon": "",
             "use_secondary_background": false,
             "heading": "Shipping Information",
-            "tab_content": "<p>We Offer fast Free shipping all around Lebanon</p>"
+            "tab_content": "<p>We Offer Fast shipping all around Lebanon</p>"
           }
         },
         "collapsible_tab_CrrMrz": {
@@ -698,6 +698,7 @@
         "template--21381747048749__47ef2f4e-6a8e-4db1-a733-3513b9c0997d-column-2",
         "template--21381747048749__47ef2f4e-6a8e-4db1-a733-3513b9c0997d-column-3"
       ],
+      "disabled": true,
       "settings": {
         "title": "",
         "highlight_type": "underline",
@@ -705,7 +706,7 @@
         "heading_tag": "h2",
         "secondary_background": "none",
         "border_column": "line_vertical",
-        "column_content_alignment": "center",
+        "column_content_alignment": "start",
         "icon_position": "above",
         "icon_size": 50,
         "enable_desktop_slider": true,
