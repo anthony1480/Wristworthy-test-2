@@ -229,11 +229,11 @@
         "image_banner_B6KPPD": {
           "type": "image_banner",
           "settings": {
-            "heading": "Black November Offer!",
+            "heading": "Black November SALE",
             "highlight_type": "underline",
             "heading_size": 100,
             "heading_tag": "h2",
-            "text": "<p>Get 15% OFF when buying 2 and 20% On 3+</p>",
+            "text": "<p>30% OFF on all items!</p>",
             "text_size": 120,
             "coupon_code": "",
             "coupon_color": "rgba(0,0,0,0)",
@@ -246,7 +246,7 @@
             "timezone": "-4",
             "end_year": 2025,
             "end_month": "11",
-            "end_day": "31",
+            "end_day": "28",
             "end_hour": "0",
             "end_minute": "0",
             "timer_style": "square",
