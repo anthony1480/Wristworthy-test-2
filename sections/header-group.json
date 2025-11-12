@@ -64,6 +64,31 @@
             "end_minute": "0"
           }
         },
+        "announcement_Ghg4Mq": {
+          "type": "announcement",
+          "settings": {
+            "icon": "none",
+            "another_icon": "",
+            "custom_icon": "",
+            "text": "LIMITED QUANTITIES",
+            "text_size": 80,
+            "link": "",
+            "open_new_window": false,
+            "button_label_or_code": "",
+            "button_link": "",
+            "open_new_window_button": false,
+            "button_color": "rgba(0,0,0,0)",
+            "button_text_color": "rgba(0,0,0,0)",
+            "button_color_dark": "rgba(0,0,0,0)",
+            "button_text_color_dark": "rgba(0,0,0,0)",
+            "timezone": "-4",
+            "end_year": 2023,
+            "end_month": "1",
+            "end_day": "1",
+            "end_hour": "1",
+            "end_minute": "0"
+          }
+        },
         "announcement_znGnRq": {
           "type": "announcement",
           "settings": {
@@ -93,6 +118,7 @@
       "block_order": [
         "announcement-bar-0",
         "announcement_xWGAxQ",
+        "announcement_Ghg4Mq",
         "announcement_znGnRq"
       ],
       "settings": {
