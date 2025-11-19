@@ -80,9 +80,8 @@
         },
         "text_NLymxK": {
           "type": "text",
-          "disabled": true,
           "settings": {
-            "text": "<p>You'll get extra links that are easily adjustable for every size :)</p>",
+            "text": "<p><strong>Limited Black Friday stock — selling out quickly!</strong><br/></p>",
             "number_of_lines_shown": "small",
             "read_more_label": "",
             "see_less_label": ""
@@ -187,7 +186,7 @@
         "title_size": 100,
         "heading_tag": "h1",
         "show_vendor": false,
-        "link_vendor": false,
+        "link_vendor": true,
         "make_content_center": false,
         "desktop_layout": "left",
         "desktop_media_layout": "thumbnail_slider",
