@@ -242,9 +242,9 @@
       },
       "1027642515004851771": {
         "type": "shopify://apps/ysd-sticky-whatsapp-icon/blocks/app-embed/c2286acb-9e94-4b67-a53a-7046abc8e849",
-        "disabled": true,
+        "disabled": false,
         "settings": {
-          "whatsapp_number": "1234567890",
+          "whatsapp_number": "+961 81 601 902",
           "position": "right",
           "icon_color": "#3b5378"
         }
