@@ -239,6 +239,15 @@
         "type": "shopify://apps/powr-popup/blocks/app-embed/c42eddd7-7bc0-47cc-aa8a-df388049f012",
         "disabled": false,
         "settings": {}
+      },
+      "1027642515004851771": {
+        "type": "shopify://apps/ysd-sticky-whatsapp-icon/blocks/app-embed/c2286acb-9e94-4b67-a53a-7046abc8e849",
+        "disabled": true,
+        "settings": {
+          "whatsapp_number": "1234567890",
+          "position": "right",
+          "icon_color": "#3b5378"
+        }
       }
     }
   },
