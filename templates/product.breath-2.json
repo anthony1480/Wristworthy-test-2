@@ -47,6 +47,15 @@
             "select_page": "sizing-chart"
           }
         },
+        "text_NLymxK": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>Limited Black Friday stock — selling out quickly!</strong><br/></p>",
+            "number_of_lines_shown": "small",
+            "read_more_label": "",
+            "see_less_label": ""
+          }
+        },
         "buy_buttons": {
           "type": "buy_buttons",
           "settings": {
@@ -76,15 +85,6 @@
             "button_text_hover_dark": "#253341",
             "secondary_button_dark": "rgba(0,0,0,0)",
             "secondary_button_text_dark": "rgba(0,0,0,0)"
-          }
-        },
-        "text_NLymxK": {
-          "type": "text",
-          "settings": {
-            "text": "<p><strong>Limited Black Friday stock — selling out quickly!</strong><br/></p>",
-            "number_of_lines_shown": "small",
-            "read_more_label": "",
-            "see_less_label": ""
           }
         },
         "ffacb41b-c15e-41ee-864a-cfbf155d407d": {
@@ -171,8 +171,8 @@
         "variant_picker",
         "quantity_selector",
         "size_chart_XK9cL3",
-        "buy_buttons",
         "text_NLymxK",
+        "buy_buttons",
         "ffacb41b-c15e-41ee-864a-cfbf155d407d",
         "collapsible-row-0",
         "collapsible_tab_rfEU8t",
