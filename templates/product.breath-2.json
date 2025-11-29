@@ -242,11 +242,11 @@
         "countdown_timer_AEwKeB": {
           "type": "countdown_timer",
           "settings": {
-            "timezone": "-4",
+            "timezone": "2",
             "end_year": 2025,
             "end_month": "11",
             "end_day": "30",
-            "end_hour": "0",
+            "end_hour": "23",
             "end_minute": "0",
             "timer_style": "square",
             "border_style": "line_vertical",
