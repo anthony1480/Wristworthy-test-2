@@ -263,6 +263,7 @@
         "image_banner_B6KPPD",
         "countdown_timer_AEwKeB"
       ],
+      "disabled": true,
       "name": "t:sections.flash-sale.presets.name",
       "settings": {
         "image_overlay_opacity": 0,
