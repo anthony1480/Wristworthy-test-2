@@ -118,15 +118,26 @@
         },
         "1813c9bc-c533-41cf-a0aa-e7c3cafeed97": {
           "type": "collapsible_tab",
-          "disabled": true,
           "settings": {
             "open_by_default": false,
-            "icon": "none",
+            "icon": "rulers",
             "another_icon": "",
             "custom_icon": "",
             "use_secondary_background": false,
-            "heading": "Giving Back",
-            "tab_content": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.</p>"
+            "heading": "Sizing",
+            "tab_content": "<p>We offer easy exchanges for sizes.</p>"
+          }
+        },
+        "collapsible_tab_DQBTKq": {
+          "type": "collapsible_tab",
+          "settings": {
+            "open_by_default": false,
+            "icon": "gift",
+            "another_icon": "",
+            "custom_icon": "",
+            "use_secondary_background": false,
+            "heading": "Packaging",
+            "tab_content": "<p>Comes with full Cartier Packaging and Certificate.</p>"
           }
         },
         "social-sharing": {
@@ -152,6 +163,7 @@
         "description",
         "collapsible-row-0",
         "1813c9bc-c533-41cf-a0aa-e7c3cafeed97",
+        "collapsible_tab_DQBTKq",
         "social-sharing",
         "sticky-atc"
       ],
