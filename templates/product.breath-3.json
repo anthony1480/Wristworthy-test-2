@@ -36,7 +36,7 @@
           "type": "quantity_selector",
           "settings": {}
         },
-        "buy_buttons": {
+        "buy_buttons_wwX44h": {
           "type": "buy_buttons",
           "settings": {
             "show_button_style": "secondary",
@@ -148,7 +148,7 @@
         "price",
         "variant_picker",
         "quantity_selector",
-        "buy_buttons",
+        "buy_buttons_wwX44h",
         "ffacb41b-c15e-41ee-864a-cfbf155d407d",
         "description",
         "collapsible-row-0",
