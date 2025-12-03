@@ -12,6 +12,20 @@
     "main": {
       "type": "main-product",
       "blocks": {
+        "icon_text_XU646T": {
+          "type": "icon_text",
+          "settings": {
+            "icon": "award",
+            "another_icon": "",
+            "custom_icon": "",
+            "icon_size": 30,
+            "text": "<h4><em><strong>Very Limited Pieces!</strong></em></h4>",
+            "background_color_light": "rgba(0,0,0,0)",
+            "text_light": "rgba(0,0,0,0)",
+            "background_color_dark": "rgba(0,0,0,0)",
+            "text_dark": "rgba(0,0,0,0)"
+          }
+        },
         "badges": {
           "type": "badges",
           "settings": {}
@@ -35,6 +49,13 @@
         "quantity_selector": {
           "type": "quantity_selector",
           "settings": {}
+        },
+        "size_chart_NTxH9P": {
+          "type": "size_chart",
+          "settings": {
+            "heading": "Size chart",
+            "select_page": "sizing-chart"
+          }
         },
         "buy_buttons_wwX44h": {
           "type": "buy_buttons",
@@ -151,34 +172,15 @@
             "desktop_display_type": "full_width",
             "show_quantity_selector": false
           }
-        },
-        "size_chart_NTxH9P": {
-          "type": "size_chart",
-          "settings": {
-            "heading": "Size chart",
-            "select_page": "sizing-chart"
-          }
-        },
-        "icon_text_XU646T": {
-          "type": "icon_text",
-          "settings": {
-            "icon": "award",
-            "another_icon": "",
-            "custom_icon": "",
-            "icon_size": 30,
-            "text": "<h2><em><strong>Very Limited Pieces!</strong></em></h2>",
-            "background_color_light": "rgba(0,0,0,0)",
-            "text_light": "rgba(0,0,0,0)",
-            "background_color_dark": "rgba(0,0,0,0)",
-            "text_dark": "rgba(0,0,0,0)"
-          }
         }
       },
       "block_order": [
+        "icon_text_XU646T",
         "badges",
         "price",
         "variant_picker",
         "quantity_selector",
+        "size_chart_NTxH9P",
         "buy_buttons_wwX44h",
         "ffacb41b-c15e-41ee-864a-cfbf155d407d",
         "description",
@@ -186,9 +188,7 @@
         "1813c9bc-c533-41cf-a0aa-e7c3cafeed97",
         "collapsible_tab_DQBTKq",
         "social-sharing",
-        "sticky-atc",
-        "size_chart_NTxH9P",
-        "icon_text_XU646T"
+        "sticky-atc"
       ],
       "settings": {
         "enable_sticky_image": true,
