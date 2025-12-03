@@ -151,6 +151,27 @@
             "desktop_display_type": "full_width",
             "show_quantity_selector": false
           }
+        },
+        "size_chart_NTxH9P": {
+          "type": "size_chart",
+          "settings": {
+            "heading": "Size chart",
+            "select_page": "sizing-chart"
+          }
+        },
+        "icon_text_XU646T": {
+          "type": "icon_text",
+          "settings": {
+            "icon": "award",
+            "another_icon": "",
+            "custom_icon": "",
+            "icon_size": 30,
+            "text": "<h2><em><strong>Very Limited Pieces!</strong></em></h2>",
+            "background_color_light": "rgba(0,0,0,0)",
+            "text_light": "rgba(0,0,0,0)",
+            "background_color_dark": "rgba(0,0,0,0)",
+            "text_dark": "rgba(0,0,0,0)"
+          }
         }
       },
       "block_order": [
@@ -165,7 +186,9 @@
         "1813c9bc-c533-41cf-a0aa-e7c3cafeed97",
         "collapsible_tab_DQBTKq",
         "social-sharing",
-        "sticky-atc"
+        "sticky-atc",
+        "size_chart_NTxH9P",
+        "icon_text_XU646T"
       ],
       "settings": {
         "enable_sticky_image": true,
