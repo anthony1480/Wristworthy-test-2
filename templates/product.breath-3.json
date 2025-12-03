@@ -23,28 +23,6 @@
             "text_size_price": 70
           }
         },
-        "ffacb41b-c15e-41ee-864a-cfbf155d407d": {
-          "type": "estimate_delivery",
-          "settings": {
-            "hide_when_pre_order": false,
-            "message": "<p>Estimated delivery between <strong>earliest_delivery_date and latest_delivery_date.</strong></p>",
-            "tooltip_text": "",
-            "tooltip_icon": "none",
-            "custom_icon": "",
-            "tooltip_icon_position": "left",
-            "tooltip_message": "",
-            "show_background": true,
-            "box_type": "round",
-            "background_color_light": "#e4edfa",
-            "message_color_light": "#568ddd",
-            "background_color_dark": "#122540",
-            "message_color_dark": "#568ddd",
-            "bg_tooltip_color_light": "rgba(0,0,0,0)",
-            "tooltip_color_light": "rgba(0,0,0,0)",
-            "bg_tooltip_color_dark": "rgba(0,0,0,0)",
-            "tooltip_color_dark": "rgba(0,0,0,0)"
-          }
-        },
         "variant_picker": {
           "type": "variant_picker",
           "settings": {
@@ -89,6 +67,28 @@
             "secondary_button_text_dark": "rgba(0,0,0,0)"
           }
         },
+        "ffacb41b-c15e-41ee-864a-cfbf155d407d": {
+          "type": "estimate_delivery",
+          "settings": {
+            "hide_when_pre_order": false,
+            "message": "<p>Estimated delivery between <strong>earliest_delivery_date and latest_delivery_date.</strong></p>",
+            "tooltip_text": "",
+            "tooltip_icon": "none",
+            "custom_icon": "",
+            "tooltip_icon_position": "left",
+            "tooltip_message": "",
+            "show_background": true,
+            "box_type": "round",
+            "background_color_light": "#e4edfa",
+            "message_color_light": "#568ddd",
+            "background_color_dark": "#122540",
+            "message_color_dark": "#568ddd",
+            "bg_tooltip_color_light": "rgba(0,0,0,0)",
+            "tooltip_color_light": "rgba(0,0,0,0)",
+            "bg_tooltip_color_dark": "rgba(0,0,0,0)",
+            "tooltip_color_dark": "rgba(0,0,0,0)"
+          }
+        },
         "description": {
           "type": "description",
           "settings": {
@@ -106,6 +106,7 @@
         },
         "collapsible-row-0": {
           "type": "collapsible_tab",
+          "disabled": true,
           "settings": {
             "open_by_default": false,
             "icon": "none",
@@ -118,6 +119,7 @@
         },
         "1813c9bc-c533-41cf-a0aa-e7c3cafeed97": {
           "type": "collapsible_tab",
+          "disabled": true,
           "settings": {
             "open_by_default": false,
             "icon": "none",
@@ -130,6 +132,7 @@
         },
         "social-sharing": {
           "type": "social_sharing",
+          "disabled": true,
           "settings": {}
         },
         "sticky-atc": {
@@ -143,10 +146,10 @@
       "block_order": [
         "badges",
         "price",
-        "ffacb41b-c15e-41ee-864a-cfbf155d407d",
         "variant_picker",
         "quantity_selector",
         "buy_buttons",
+        "ffacb41b-c15e-41ee-864a-cfbf155d407d",
         "description",
         "collapsible-row-0",
         "1813c9bc-c533-41cf-a0aa-e7c3cafeed97",
