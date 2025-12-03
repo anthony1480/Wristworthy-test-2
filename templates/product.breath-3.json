@@ -95,7 +95,7 @@
             "show_in_tab": true,
             "open_by_default": false,
             "make_content_center": false,
-            "icon": "none",
+            "icon": "star",
             "another_icon": "",
             "custom_icon": "",
             "heading": "Description",
