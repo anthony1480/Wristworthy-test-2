@@ -106,15 +106,14 @@
         },
         "collapsible-row-0": {
           "type": "collapsible_tab",
-          "disabled": true,
           "settings": {
             "open_by_default": false,
-            "icon": "none",
+            "icon": "truck",
             "another_icon": "",
             "custom_icon": "",
             "use_secondary_background": false,
-            "heading": "Returns + Exchanges",
-            "tab_content": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.</p>"
+            "heading": "Shipping",
+            "tab_content": "<p>Free Delivery all over Lebanon</p>"
           }
         },
         "1813c9bc-c533-41cf-a0aa-e7c3cafeed97": {
