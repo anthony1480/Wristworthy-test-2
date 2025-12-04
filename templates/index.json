@@ -231,6 +231,12 @@
             "collection": "boss-collection"
           }
         },
+        "featured_collection_NUNYXb": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "cartier-collection"
+          }
+        },
         "featured_collection_EGnKT6": {
           "type": "featured_collection",
           "settings": {
@@ -246,6 +252,7 @@
       },
       "block_order": [
         "featured_collection_8jhCcG",
+        "featured_collection_NUNYXb",
         "featured_collection_EGnKT6",
         "featured_collection_YWm8qr"
       ],
@@ -428,7 +435,6 @@
       "block_order": [
         "collection_Xiiq3C"
       ],
-      "disabled": true,
       "name": "t:sections.featured-collection.presets.name",
       "settings": {
         "title": "Cartier Collection",
