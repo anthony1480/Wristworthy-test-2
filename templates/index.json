@@ -15,8 +15,8 @@
         "template--21828924539181__fe5dccd3-17fd-4fd3-ada9-a0e11305981c-slide-1": {
           "type": "slide",
           "settings": {
-            "image": "shopify://shop_images/WhatsApp_Image_2025-10-13_at_15.14.33.jpg",
-            "image_mobile": "shopify://shop_images/WhatsApp_Image_2025-10-13_at_15.14.33.jpg",
+            "image": "shopify://shop_images/IMG_0430.jpg",
+            "image_mobile": "shopify://shop_images/IMG_0430.jpg",
             "image_link": "",
             "open_new_window_image": false,
             "overlay_opacity": 0,
@@ -26,7 +26,7 @@
             "highlight_type": "underline",
             "heading_size": 140,
             "heading_tag": "h1",
-            "text": "<p>Unleash Your Style</p>",
+            "text": "<p>Christmas Sale is Live!</p>",
             "button_label_1": "Shop Now",
             "button_link_1": "shopify://collections",
             "open_new_window_button": false,
