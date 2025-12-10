@@ -59,6 +59,7 @@
         },
         "buy_buttons_wwX44h": {
           "type": "buy_buttons",
+          "disabled": true,
           "settings": {
             "show_button_style": "secondary",
             "show_dynamic_checkout": true,
