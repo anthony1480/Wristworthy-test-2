@@ -294,13 +294,13 @@
         "padding_bottom_mobile": 28
       }
     },
-    "featured_collection_PykntH": {
+    "featured_collection_ATTqQ7": {
       "type": "featured-collection",
       "blocks": {
-        "collection_LVbMX7": {
+        "collection_DNwcBp": {
           "type": "collection",
           "settings": {
-            "collection": "boss-collection",
+            "collection": "lacoste",
             "show_description": true,
             "description": "",
             "number_of_lines_shown": "none",
@@ -346,11 +346,11 @@
         }
       },
       "block_order": [
-        "collection_LVbMX7"
+        "collection_DNwcBp"
       ],
       "name": "t:sections.featured-collection.presets.name",
       "settings": {
-        "title": "Boss Collection",
+        "title": "Lacoste Collection",
         "highlight_type": "underline",
         "heading_size": 100,
         "heading_tag": "h2",
@@ -361,14 +361,14 @@
         "view_all_position": "top",
         "title_size": 120,
         "title_style": "none",
-        "enable_desktop_slider": false,
+        "enable_desktop_slider": true,
         "slider_style": "vertical",
         "swiper_on_mobile": true,
-        "auto_play": true,
+        "auto_play": false,
         "change_slides_speed": 5,
-        "columns_desktop": 5,
+        "columns_desktop": 4,
         "rows_desktop": 1,
-        "spacing": 33,
+        "spacing": 28,
         "full_width": false,
         "show_section_divider": false,
         "padding_top": 28,
@@ -460,7 +460,7 @@
         "show_section_divider": false,
         "padding_top": 28,
         "padding_bottom": 28,
-        "columns_mobile": "1",
+        "columns_mobile": "2",
         "spacing_mobile": 3,
         "full_width_mobile": false,
         "show_section_divider_mobile": false,
@@ -555,13 +555,13 @@
         "padding_bottom_mobile": 28
       }
     },
-    "featured_collection_ATTqQ7": {
+    "featured_collection_PykntH": {
       "type": "featured-collection",
       "blocks": {
-        "collection_DNwcBp": {
+        "collection_LVbMX7": {
           "type": "collection",
           "settings": {
-            "collection": "lacoste",
+            "collection": "boss-collection",
             "show_description": true,
             "description": "",
             "number_of_lines_shown": "none",
@@ -607,11 +607,11 @@
         }
       },
       "block_order": [
-        "collection_DNwcBp"
+        "collection_LVbMX7"
       ],
       "name": "t:sections.featured-collection.presets.name",
       "settings": {
-        "title": "Lacoste Collection",
+        "title": "Boss Collection",
         "highlight_type": "underline",
         "heading_size": 100,
         "heading_tag": "h2",
@@ -622,14 +622,14 @@
         "view_all_position": "top",
         "title_size": 120,
         "title_style": "none",
-        "enable_desktop_slider": true,
+        "enable_desktop_slider": false,
         "slider_style": "vertical",
         "swiper_on_mobile": true,
-        "auto_play": false,
+        "auto_play": true,
         "change_slides_speed": 5,
-        "columns_desktop": 4,
+        "columns_desktop": 5,
         "rows_desktop": 1,
-        "spacing": 28,
+        "spacing": 33,
         "full_width": false,
         "show_section_divider": false,
         "padding_top": 28,
@@ -1164,10 +1164,10 @@
     "fe5dccd3-17fd-4fd3-ada9-a0e11305981c",
     "d557b959-57cb-476f-adb6-18808587f120",
     "collection_list_PrchHn",
-    "featured_collection_PykntH",
+    "featured_collection_ATTqQ7",
     "featured_collection_NrAxYa",
     "featured_collection_JzCzYw",
-    "featured_collection_ATTqQ7",
+    "featured_collection_PykntH",
     "video_slider_9Bdedb",
     "54f7b6ce-e4ba-42b3-9550-cde9eb5ab2b4",
     "ec753deb-9b85-432b-ad75-2c2fd240c350",
