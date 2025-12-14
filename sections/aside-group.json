@@ -42,10 +42,9 @@
         },
         "product-labels-and-badges-1": {
           "type": "sold-out-label",
-          "disabled": true,
           "settings": {
             "show_on_product_card": true,
-            "show_on_product_page": false,
+            "show_on_product_page": true,
             "icon": "none",
             "another_icon": "",
             "custom_icon": "",
