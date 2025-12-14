@@ -73,6 +73,7 @@
       "blocks": {
         "a59e424d-3ee8-4334-9173-d22fbfeb78ac": {
           "type": "promotion_block",
+          "disabled": true,
           "settings": {
             "subheading": "",
             "heading": "Bundle & Save",
