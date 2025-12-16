@@ -781,6 +781,18 @@
     "54f7b6ce-e4ba-42b3-9550-cde9eb5ab2b4": {
       "type": "testimonials",
       "blocks": {
+        "testimonial_yQ3UBe": {
+          "type": "testimonial",
+          "settings": {
+            "icon_star": "quote",
+            "custom_icon": "",
+            "title": "Testimonials",
+            "text": "<p>Veryy high quality, I wont think twice when ordering my next onee!!</p>",
+            "author": "Hassan",
+            "author_note": "",
+            "product": ""
+          }
+        },
         "testimonial_zWjHzx": {
           "type": "testimonial",
           "settings": {
@@ -848,6 +860,7 @@
         }
       },
       "block_order": [
+        "testimonial_yQ3UBe",
         "testimonial_zWjHzx",
         "testimonial_QLLP3j",
         "testimonial_JnNDA7",
