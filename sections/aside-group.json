@@ -402,6 +402,19 @@
     },
     "ss_upsell_02_rBmXWi": {
       "type": "ss-upsell-02",
+      "blocks": {
+        "product_aBtTpn": {
+          "type": "product",
+          "settings": {
+            "product": "lacoste-silver-crocodile-bracelet",
+            "promo_text": "20% of this product when pairing",
+            "enable_variant_dropdown": false
+          }
+        }
+      },
+      "block_order": [
+        "product_aBtTpn"
+      ],
       "name": "SS - Upsell #2",
       "settings": {
         "upsell_position": "below_buy",
