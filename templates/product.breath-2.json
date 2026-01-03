@@ -759,7 +759,7 @@
       ],
       "name": "SS - Upsell #2",
       "settings": {
-        "upsell_position": "below_buy",
+        "upsell_position": "below_price",
         "refresh_after_atc": false,
         "heading": "<h2>PAIR IT WITH:</h2>",
         "heading_custom": false,
