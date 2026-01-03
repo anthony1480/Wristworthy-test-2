@@ -399,104 +399,6 @@
         "accept_button_background_dark": "#743718",
         "accept_button_text_dark": "#ffffff"
       }
-    },
-    "ss_upsell_02_rBmXWi": {
-      "type": "ss-upsell-02",
-      "blocks": {
-        "product_aBtTpn": {
-          "type": "product",
-          "settings": {
-            "product": "lacoste-silver-crocodile-bracelet",
-            "promo_text": "20% of this product when pairing",
-            "enable_variant_dropdown": false
-          }
-        }
-      },
-      "block_order": [
-        "product_aBtTpn"
-      ],
-      "name": "SS - Upsell #2",
-      "settings": {
-        "upsell_position": "below_buy",
-        "refresh_after_atc": false,
-        "heading": "<h2>PAIR IT WITH:</h2>",
-        "heading_custom": false,
-        "heading_font": "josefin_sans_n4",
-        "heading_size": 16,
-        "heading_size_mobile": 16,
-        "heading_height": 130,
-        "heading_align": "left",
-        "heading_align_mobile": "left",
-        "item_padding_vertical": 16,
-        "item_padding_vertical_mobile": 16,
-        "item_padding_horizontal": 10,
-        "item_padding_horizontal_mobile": 10,
-        "item_radius": 0,
-        "item_border_thickness": 1,
-        "item_shadow": false,
-        "image_size": 72,
-        "image_size_mobile": 72,
-        "image_radius": 0,
-        "image_border_thickness": 1,
-        "title_custom": false,
-        "title_font": "josefin_sans_n4",
-        "title_size": 13,
-        "title_size_mobile": 13,
-        "title_height": 130,
-        "promo_custom": false,
-        "promo_font": "josefin_sans_n4",
-        "promo_size": 12,
-        "promo_size_mobile": 12,
-        "promo_height": 130,
-        "button": "ADD",
-        "soldout": "Sold out",
-        "button_custom": false,
-        "button_font": "josefin_sans_n4",
-        "button_size": 14,
-        "button_size_mobile": 14,
-        "button_height": 100,
-        "button_padding_vertical": 12,
-        "button_padding_vertical_mobile": 12,
-        "button_padding_horizontal": 14,
-        "button_padding_horizontal_mobile": 14,
-        "button_radius": 0,
-        "button_border_thickness": 1,
-        "select_custom": false,
-        "select_font": "josefin_sans_n4",
-        "select_size": 12,
-        "select_size_mobile": 12,
-        "select_height": 100,
-        "select_radius": 0,
-        "select_border_thickness": 1,
-        "item_background_color": "#FFFFFF",
-        "item_border_color": "#7D7D7D",
-        "image_border_color": "#7D7D7D",
-        "title_color": "#000000",
-        "promo_color": "#7D7D7D",
-        "button_color": "#FFFFFF",
-        "button_hover_color": "#000000",
-        "button_bg_color": "#000000",
-        "button_bg_hover_color": "#FFFFFF",
-        "button_border_color": "#000000",
-        "button_border_hover_color": "#000000",
-        "select_color": "#000000",
-        "select_bg_color": "#FFFFFF",
-        "select_border_color": "#000000",
-        "heading_color": "#000000",
-        "background_color": "",
-        "background_gradient": "",
-        "border_color": "#000000",
-        "margin_top": 0,
-        "margin_bottom": 0,
-        "padding_top": 0,
-        "padding_top_mobile": 0,
-        "padding_bottom": 0,
-        "padding_bottom_mobile": 0,
-        "padding_horizontal": 0,
-        "padding_horizontal_mobile": 0,
-        "border_thickness": 0,
-        "section_radius": 0
-      }
     }
   },
   "order": [
@@ -504,7 +406,6 @@
     "quick-view",
     "popup-promotion",
     "popup-age-verification",
-    "cookie-banner",
-    "ss_upsell_02_rBmXWi"
+    "cookie-banner"
   ]
 }
