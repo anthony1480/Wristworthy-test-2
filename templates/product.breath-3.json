@@ -91,7 +91,7 @@
         "upsell_com_ex_reconvert_slot_YLFAhd": {
           "type": "shopify://apps/upsell-com-ex-reconvert/blocks/slot/72c64c30-2f7c-4a71-ae4c-efd1d5d1d2e2",
           "settings": {
-            "slot_id": "7"
+            "slot_id": "1"
           }
         },
         "ffacb41b-c15e-41ee-864a-cfbf155d407d": {
