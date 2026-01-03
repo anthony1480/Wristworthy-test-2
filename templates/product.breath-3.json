@@ -88,6 +88,10 @@
             "secondary_button_text_dark": "rgba(0,0,0,0)"
           }
         },
+        "upsell_com_ex_reconvert_product_upsell_4qDGbX": {
+          "type": "shopify://apps/upsell-com-ex-reconvert/blocks/product-upsell/72c64c30-2f7c-4a71-ae4c-efd1d5d1d2e2",
+          "settings": {}
+        },
         "ffacb41b-c15e-41ee-864a-cfbf155d407d": {
           "type": "estimate_delivery",
           "settings": {
@@ -182,6 +186,7 @@
         "quantity_selector",
         "size_chart_NTxH9P",
         "buy_buttons_wwX44h",
+        "upsell_com_ex_reconvert_product_upsell_4qDGbX",
         "ffacb41b-c15e-41ee-864a-cfbf155d407d",
         "description",
         "collapsible-row-0",
@@ -263,15 +268,6 @@
     },
     "17674566346b86f393": {
       "type": "apps",
-      "blocks": {
-        "upsell_com_ex_reconvert_product_upsell_cbfgzq": {
-          "type": "shopify://apps/upsell-com-ex-reconvert/blocks/product-upsell/72c64c30-2f7c-4a71-ae4c-efd1d5d1d2e2",
-          "settings": {}
-        }
-      },
-      "block_order": [
-        "upsell_com_ex_reconvert_product_upsell_cbfgzq"
-      ],
       "settings": {
         "include_margins": true
       }
