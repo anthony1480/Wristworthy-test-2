@@ -258,6 +258,11 @@
         "type": "shopify://apps/essential-trust-badges/blocks/app-embed/0ff65b25-07e1-408e-950f-f54dd3d1751b",
         "disabled": false,
         "settings": {}
+      },
+      "8774941748004189772": {
+        "type": "shopify://apps/upsell-com-ex-reconvert/blocks/cart-drawer/72c64c30-2f7c-4a71-ae4c-efd1d5d1d2e2",
+        "disabled": false,
+        "settings": {}
       }
     }
   },
