@@ -193,7 +193,7 @@
         "show_arrow_button": true,
         "mobile_media_size": "75%",
         "show_thumnail_mobile": true,
-        "image_ratio": "natural",
+        "image_ratio": "square",
         "thumbnail_position": "horizontal",
         "enable_image_zoom": true,
         "zoom_effect": "enlarge",
