@@ -88,12 +88,6 @@
             "secondary_button_text_dark": "rgba(0,0,0,0)"
           }
         },
-        "upsell_com_ex_reconvert_slot_YLFAhd": {
-          "type": "shopify://apps/upsell-com-ex-reconvert/blocks/slot/72c64c30-2f7c-4a71-ae4c-efd1d5d1d2e2",
-          "settings": {
-            "slot_id": "7"
-          }
-        },
         "ffacb41b-c15e-41ee-864a-cfbf155d407d": {
           "type": "estimate_delivery",
           "settings": {
@@ -140,7 +134,7 @@
             "custom_icon": "",
             "use_secondary_background": false,
             "heading": "Shipping",
-            "tab_content": "<p>Free Delivery all over Lebanon</p>"
+            "tab_content": "<p>Fast Delivery all over Lebanon</p>"
           }
         },
         "1813c9bc-c533-41cf-a0aa-e7c3cafeed97": {
@@ -164,7 +158,7 @@
             "custom_icon": "",
             "use_secondary_background": false,
             "heading": "Packaging",
-            "tab_content": "<p>Comes with full Cartier Packaging and Certificate.</p>"
+            "tab_content": "<p>Comes with premium WristWorthy Packaging.</p>"
           }
         },
         "social-sharing": {
@@ -188,7 +182,6 @@
         "quantity_selector",
         "size_chart_NTxH9P",
         "buy_buttons_wwX44h",
-        "upsell_com_ex_reconvert_slot_YLFAhd",
         "ffacb41b-c15e-41ee-864a-cfbf155d407d",
         "description",
         "collapsible-row-0",
