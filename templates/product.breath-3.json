@@ -423,7 +423,7 @@
             "highlight_type": "underline",
             "heading_size": 100,
             "heading_tag": "h2",
-            "text": "<p>Buy any bracelet and get the 2nd for FREE!</p>",
+            "text": "<p>Buy any item and get the 2nd for FREE!</p>",
             "text_size": 130,
             "coupon_code": "",
             "coupon_color": "rgba(0,0,0,0)",
@@ -506,9 +506,9 @@
   },
   "order": [
     "main",
+    "flash_sale_NbAzUi",
     "product-recommendations",
     "17674566346b86f393",
-    "video_slider_C6xDt8",
-    "flash_sale_NbAzUi"
+    "video_slider_C6xDt8"
   ]
 }
