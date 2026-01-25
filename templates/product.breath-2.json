@@ -228,12 +228,12 @@
         "image_banner_B6KPPD": {
           "type": "image_banner",
           "settings": {
-            "heading": "VALENTINE’S OFFER",
+            "heading": "VALENTINE’S OFFER❤️",
             "highlight_type": "underline",
             "heading_size": 100,
             "heading_tag": "h2",
             "text": "<p>Buy any bracelet and get the 2nd for FREE!</p>",
-            "text_size": 50,
+            "text_size": 150,
             "coupon_code": "",
             "coupon_color": "rgba(0,0,0,0)",
             "coupon_color_dark": "rgba(0,0,0,0)"
@@ -243,7 +243,7 @@
           "type": "countdown_timer",
           "settings": {
             "timezone": "2",
-            "end_year": 2025,
+            "end_year": 2026,
             "end_month": "2",
             "end_day": "14",
             "end_hour": "23",
@@ -263,7 +263,6 @@
         "image_banner_B6KPPD",
         "countdown_timer_AEwKeB"
       ],
-      "disabled": true,
       "name": "t:sections.flash-sale.presets.name",
       "settings": {
         "image_overlay_opacity": 0,
