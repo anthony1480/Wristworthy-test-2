@@ -244,8 +244,8 @@
           "settings": {
             "timezone": "2",
             "end_year": 2025,
-            "end_month": "11",
-            "end_day": "30",
+            "end_month": "2",
+            "end_day": "14",
             "end_hour": "23",
             "end_minute": "0",
             "timer_style": "square",
