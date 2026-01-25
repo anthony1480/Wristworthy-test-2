@@ -228,12 +228,12 @@
         "image_banner_B6KPPD": {
           "type": "image_banner",
           "settings": {
-            "heading": "Black November SALE",
+            "heading": "VALENTINE’S OFFER",
             "highlight_type": "underline",
             "heading_size": 100,
             "heading_tag": "h2",
-            "text": "<p>30% OFF on all items!</p>",
-            "text_size": 120,
+            "text": "<p>Buy any bracelet and get the 2nd for FREE!</p>",
+            "text_size": 50,
             "coupon_code": "",
             "coupon_color": "rgba(0,0,0,0)",
             "coupon_color_dark": "rgba(0,0,0,0)"
