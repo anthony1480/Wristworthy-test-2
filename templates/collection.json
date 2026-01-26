@@ -62,7 +62,7 @@
         "full_width": true,
         "padding_top": 0,
         "padding_bottom": 36,
-        "mobile_height": "250px",
+        "mobile_height": "auto",
         "full_width_mobile": false,
         "padding_top_mobile": 0,
         "padding_bottom_mobile": 0
