@@ -159,9 +159,9 @@
         "logo_width_mobile": 100,
         "show_social_icons": false,
         "enable_on_homepage": true,
-        "enable_on_collection_page": true,
+        "enable_on_collection_page": false,
         "logo_transparent": "shopify://shop_images/IMG_5920-removebg-preview.png",
-        "shadow": 36,
+        "shadow": 40,
         "text_color_light": "#ffffff",
         "textlink_color_light": "rgba(0,0,0,0)",
         "text_color_dark": "#ffffff",
@@ -179,8 +179,8 @@
         "padding_top": 24,
         "padding_bottom": 12,
         "show_section_divider_mobile": false,
-        "padding_top_mobile": 16,
-        "padding_bottom_mobile": 16
+        "padding_top_mobile": 12,
+        "padding_bottom_mobile": 0
       }
     },
     "mobile-navigation": {

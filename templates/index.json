@@ -371,7 +371,7 @@
         "slider_style": "vertical",
         "swiper_on_mobile": true,
         "auto_play": true,
-        "change_slides_speed": 5,
+        "change_slides_speed": 4,
         "columns_desktop": 5,
         "rows_desktop": 1,
         "spacing": 33,
@@ -380,11 +380,11 @@
         "padding_top": 28,
         "padding_bottom": 28,
         "columns_mobile": "2",
-        "spacing_mobile": 16,
+        "spacing_mobile": 0,
         "full_width_mobile": false,
         "show_section_divider_mobile": false,
-        "padding_top_mobile": 28,
-        "padding_bottom_mobile": 8
+        "padding_top_mobile": 24,
+        "padding_bottom_mobile": 0
       }
     },
     "featured_collection_ATTqQ7": {
@@ -534,7 +534,7 @@
         "highlight_type": "underline",
         "heading_size": 100,
         "heading_tag": "h2",
-        "heading_alignment": "center",
+        "heading_alignment": "left",
         "subheading": "",
         "text": "",
         "show_view_all": false,
@@ -558,7 +558,7 @@
         "full_width_mobile": false,
         "show_section_divider_mobile": false,
         "padding_top_mobile": 4,
-        "padding_bottom_mobile": 4
+        "padding_bottom_mobile": 0
       }
     },
     "featured_collection_JzCzYw": {
@@ -638,14 +638,14 @@
         "spacing": 28,
         "full_width": false,
         "show_section_divider": false,
-        "padding_top": 28,
-        "padding_bottom": 28,
+        "padding_top": 0,
+        "padding_bottom": 0,
         "columns_mobile": "2",
-        "spacing_mobile": 16,
+        "spacing_mobile": 4,
         "full_width_mobile": false,
         "show_section_divider_mobile": false,
-        "padding_top_mobile": 28,
-        "padding_bottom_mobile": 28
+        "padding_top_mobile": 0,
+        "padding_bottom_mobile": 0
       }
     },
     "featured_collection_PykntH": {
@@ -728,11 +728,11 @@
         "padding_top": 28,
         "padding_bottom": 28,
         "columns_mobile": "2",
-        "spacing_mobile": 16,
+        "spacing_mobile": 4,
         "full_width_mobile": false,
         "show_section_divider_mobile": false,
-        "padding_top_mobile": 28,
-        "padding_bottom_mobile": 28
+        "padding_top_mobile": 0,
+        "padding_bottom_mobile": 0
       }
     },
     "video_slider_9Bdedb": {
@@ -994,11 +994,10 @@
     "ec753deb-9b85-432b-ad75-2c2fd240c350": {
       "type": "media-gallery",
       "blocks": {
-        "template--21828924539181__ec753deb-9b85-432b-ad75-2c2fd240c350-media-2": {
+        "media_nKCTha": {
           "type": "media",
           "settings": {
-            "image": "shopify://shop_images/WhatsApp_Image_2025-10-13_at_15.14.34_1.jpg",
-            "image_mobile": "shopify://shop_images/WhatsApp_Image_2025-10-13_at_15.14.34_1.jpg",
+            "image": "shopify://shop_images/fred-mens-bracelet-2967024.jpg",
             "image_link": "",
             "open_new_window": false,
             "show_sound_control": false,
@@ -1020,18 +1019,18 @@
             "title_size": 80,
             "text": "",
             "text_size": 130,
-            "text_align": "right",
+            "text_align": "center",
             "media_position": "top",
             "button_label": "",
             "button_link": "",
-            "open_new_window_button": true,
+            "open_new_window_button": false,
             "show_button_style": "primary",
             "color_overlay": "rgba(0,0,0,0)",
-            "title_color": "#ffffff",
-            "text_color": "#ffffff",
+            "title_color": "rgba(0,0,0,0)",
+            "text_color": "rgba(0,0,0,0)",
             "color_heading_highlight_light": "rgba(0,0,0,0)",
-            "color_button": "#242424",
-            "background_button": "#ffffff",
+            "color_button": "rgba(0,0,0,0)",
+            "background_button": "rgba(0,0,0,0)",
             "color_button_hover": "rgba(0,0,0,0)",
             "background_button_hover": "rgba(0,0,0,0)",
             "color_button_secondary": "rgba(0,0,0,0)",
@@ -1083,10 +1082,11 @@
             "colors_text_link": "rgba(0,0,0,0)"
           }
         },
-        "media_nKCTha": {
+        "template--21828924539181__ec753deb-9b85-432b-ad75-2c2fd240c350-media-2": {
           "type": "media",
           "settings": {
-            "image": "shopify://shop_images/fred-mens-bracelet-2967024.jpg",
+            "image": "shopify://shop_images/WhatsApp_Image_2025-10-13_at_15.14.34_1.jpg",
+            "image_mobile": "shopify://shop_images/WhatsApp_Image_2025-10-13_at_15.14.34_1.jpg",
             "image_link": "",
             "open_new_window": false,
             "show_sound_control": false,
@@ -1108,18 +1108,18 @@
             "title_size": 80,
             "text": "",
             "text_size": 130,
-            "text_align": "center",
+            "text_align": "right",
             "media_position": "top",
             "button_label": "",
             "button_link": "",
-            "open_new_window_button": false,
+            "open_new_window_button": true,
             "show_button_style": "primary",
             "color_overlay": "rgba(0,0,0,0)",
-            "title_color": "rgba(0,0,0,0)",
-            "text_color": "rgba(0,0,0,0)",
+            "title_color": "#ffffff",
+            "text_color": "#ffffff",
             "color_heading_highlight_light": "rgba(0,0,0,0)",
-            "color_button": "rgba(0,0,0,0)",
-            "background_button": "rgba(0,0,0,0)",
+            "color_button": "#242424",
+            "background_button": "#ffffff",
             "color_button_hover": "rgba(0,0,0,0)",
             "background_button_hover": "rgba(0,0,0,0)",
             "color_button_secondary": "rgba(0,0,0,0)",
@@ -1129,9 +1129,9 @@
         }
       },
       "block_order": [
-        "template--21828924539181__ec753deb-9b85-432b-ad75-2c2fd240c350-media-2",
+        "media_nKCTha",
         "template--21828924539181__ec753deb-9b85-432b-ad75-2c2fd240c350-media-3",
-        "media_nKCTha"
+        "template--21828924539181__ec753deb-9b85-432b-ad75-2c2fd240c350-media-2"
       ],
       "settings": {
         "heading": "IMAGE GALLERY",
