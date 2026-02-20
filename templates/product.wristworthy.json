@@ -239,7 +239,7 @@
         "image_banner_4hi8c3": {
           "type": "image_banner",
           "settings": {
-            "heading": "VALENTINE’S OFFER❤️",
+            "heading": "RAMADAN’S OFFER❤️",
             "highlight_type": "font_highlight",
             "heading_size": 100,
             "heading_tag": "h2",
@@ -256,7 +256,7 @@
             "timezone": "2",
             "end_year": 2026,
             "end_month": "2",
-            "end_day": "18",
+            "end_day": "28",
             "end_hour": "23",
             "end_minute": "0",
             "timer_style": "square",
