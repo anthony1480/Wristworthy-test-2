@@ -238,7 +238,7 @@
         "image_banner_yaxjiN": {
           "type": "image_banner",
           "settings": {
-            "heading": "Valentine ❤️ Offer",
+            "heading": "Ramadan's Offer",
             "highlight_type": "underline",
             "heading_size": 100,
             "heading_tag": "h2",
@@ -255,7 +255,7 @@
             "timezone": "2",
             "end_year": 2026,
             "end_month": "2",
-            "end_day": "18",
+            "end_day": "28",
             "end_hour": "23",
             "end_minute": "0",
             "timer_style": "square",
