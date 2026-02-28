@@ -270,6 +270,7 @@
         },
         "buttons_HC9Fmw": {
           "type": "buttons",
+          "disabled": true,
           "settings": {
             "button_label": "SHOP NOW",
             "button_link": "",
@@ -290,6 +291,7 @@
         "countdown_timer_rBaJWF",
         "buttons_HC9Fmw"
       ],
+      "disabled": true,
       "name": "t:sections.flash-sale.presets.name",
       "settings": {
         "image_overlay_opacity": 0,

@@ -291,6 +291,7 @@
         "countdown_timer_bGxYGd",
         "buttons_TQN88q"
       ],
+      "disabled": true,
       "name": "t:sections.flash-sale.presets.name",
       "settings": {
         "image_overlay_opacity": 0,

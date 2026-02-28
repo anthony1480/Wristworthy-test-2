@@ -227,6 +227,7 @@
       "blocks": {
         "image_banner_B6KPPD": {
           "type": "image_banner",
+          "disabled": true,
           "settings": {
             "heading": "RAMADAN’S OFFER❤️",
             "highlight_type": "underline",
@@ -241,6 +242,7 @@
         },
         "countdown_timer_AEwKeB": {
           "type": "countdown_timer",
+          "disabled": true,
           "settings": {
             "timezone": "2",
             "end_year": 2026,
