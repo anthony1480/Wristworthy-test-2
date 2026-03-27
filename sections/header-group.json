@@ -20,7 +20,7 @@
             "icon": "none",
             "another_icon": "",
             "custom_icon": "",
-            "text": "UP TO 40% OFF!",
+            "text": "",
             "text_size": 90,
             "link": "",
             "open_new_window": false,
@@ -35,31 +35,6 @@
             "end_year": 2023,
             "end_month": "9",
             "end_day": "31",
-            "end_hour": "1",
-            "end_minute": "0"
-          }
-        },
-        "announcement_xWGAxQ": {
-          "type": "announcement",
-          "settings": {
-            "icon": "none",
-            "another_icon": "",
-            "custom_icon": "",
-            "text": "EID'S SALE🌙",
-            "text_size": 80,
-            "link": "",
-            "open_new_window": false,
-            "button_label_or_code": "",
-            "button_link": "",
-            "open_new_window_button": false,
-            "button_color": "rgba(0,0,0,0)",
-            "button_text_color": "rgba(0,0,0,0)",
-            "button_color_dark": "rgba(0,0,0,0)",
-            "button_text_color_dark": "rgba(0,0,0,0)",
-            "timezone": "-4",
-            "end_year": 2023,
-            "end_month": "1",
-            "end_day": "1",
             "end_hour": "1",
             "end_minute": "0"
           }
@@ -117,7 +92,6 @@
       },
       "block_order": [
         "announcement-bar-0",
-        "announcement_xWGAxQ",
         "announcement_Ghg4Mq",
         "announcement_znGnRq"
       ],
