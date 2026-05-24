@@ -176,15 +176,6 @@
             "desktop_display_type": "full_width",
             "show_quantity_selector": false
           }
-        },
-        "judge_me_reviews_review_widget_imEKPM": {
-          "type": "shopify://apps/judge-me-reviews/blocks/review_widget/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
-          "settings": {
-            "review_data": "real_data",
-            "max_width": 400,
-            "show_shop_reviews": true,
-            "empty_state": "other_products_reviews"
-          }
         }
       },
       "block_order": [
@@ -202,8 +193,7 @@
         "collapsible_tab_rfEU8t",
         "1813c9bc-c533-41cf-a0aa-e7c3cafeed97",
         "collapsible_tab_CrrMrz",
-        "sticky-atc",
-        "judge_me_reviews_review_widget_imEKPM"
+        "sticky-atc"
       ],
       "settings": {
         "enable_sticky_image": true,
@@ -549,6 +539,7 @@
         "testimonial_MrKijX",
         "testimonial_Rerf6i"
       ],
+      "disabled": true,
       "name": "t:sections.testimonials.presets.name",
       "settings": {
         "heading": "Our Reviews",
@@ -773,6 +764,32 @@
       "settings": {
         "include_margins": true
       }
+    },
+    "17796567770afd74d1": {
+      "type": "apps",
+      "settings": {
+        "include_margins": true
+      }
+    },
+    "1779656890da6c1fb5": {
+      "type": "apps",
+      "blocks": {
+        "judge_me_reviews_review_widget_xaRNPi": {
+          "type": "shopify://apps/judge-me-reviews/blocks/review_widget/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {
+            "review_data": "real_data",
+            "max_width": 1200,
+            "show_shop_reviews": false,
+            "empty_state": "other_products_reviews"
+          }
+        }
+      },
+      "block_order": [
+        "judge_me_reviews_review_widget_xaRNPi"
+      ],
+      "settings": {
+        "include_margins": true
+      }
     }
   },
   "order": [
@@ -784,6 +801,8 @@
     "testimonials_KUWnMp",
     "faq_mRyz9d",
     "47ef2f4e-6a8e-4db1-a733-3513b9c0997d",
-    "17796558756c40298e"
+    "17796558756c40298e",
+    "17796567770afd74d1",
+    "1779656890da6c1fb5"
   ]
 }
