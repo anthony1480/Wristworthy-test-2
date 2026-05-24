@@ -16,6 +16,15 @@
     "main": {
       "type": "main-product",
       "blocks": {
+        "text_tgx8L9": {
+          "type": "text",
+          "settings": {
+            "text": "<p><em>All photos are authentic and taken by us!</em></p>",
+            "number_of_lines_shown": "none",
+            "read_more_label": "",
+            "see_less_label": ""
+          }
+        },
         "badges": {
           "type": "badges",
           "settings": {}
@@ -170,6 +179,7 @@
         }
       },
       "block_order": [
+        "text_tgx8L9",
         "badges",
         "price",
         "variant_picker",

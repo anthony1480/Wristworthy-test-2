@@ -31,6 +31,15 @@
           "type": "badges",
           "settings": {}
         },
+        "text_RFUdEi": {
+          "type": "text",
+          "settings": {
+            "text": "<p><em>All photos are authentic and taken by us!</em></p>",
+            "number_of_lines_shown": "none",
+            "read_more_label": "Read more",
+            "see_less_label": "See less"
+          }
+        },
         "price": {
           "type": "price",
           "settings": {
@@ -178,6 +187,7 @@
       "block_order": [
         "icon_text_XU646T",
         "badges",
+        "text_RFUdEi",
         "price",
         "variant_picker",
         "quantity_selector",
