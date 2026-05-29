@@ -306,7 +306,7 @@
         "collection_RgzxDK": {
           "type": "collection",
           "settings": {
-            "collection": "wristworthy-collection",
+            "collection": "all-products",
             "show_description": true,
             "description": "",
             "number_of_lines_shown": "none",
@@ -356,7 +356,7 @@
       ],
       "name": "t:sections.featured-collection.presets.name",
       "settings": {
-        "title": "WristWorthy Collection",
+        "title": "All Products",
         "highlight_type": "underline",
         "heading_size": 100,
         "heading_tag": "h2",
@@ -393,7 +393,7 @@
         "collection_DNwcBp": {
           "type": "collection",
           "settings": {
-            "collection": "lacoste",
+            "collection": "gifts-for-him",
             "show_description": true,
             "description": "",
             "number_of_lines_shown": "none",
@@ -443,14 +443,14 @@
       ],
       "name": "t:sections.featured-collection.presets.name",
       "settings": {
-        "title": "Lacoste Collection",
+        "title": "For Men",
         "highlight_type": "underline",
         "heading_size": 100,
         "heading_tag": "h2",
         "heading_alignment": "center",
         "subheading": "",
         "text": "",
-        "show_view_all": false,
+        "show_view_all": true,
         "view_all_position": "top",
         "title_size": 120,
         "title_style": "none",
