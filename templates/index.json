@@ -877,8 +877,9 @@
       "blocks": {
         "testimonial_yQ3UBe": {
           "type": "testimonial",
+          "disabled": true,
           "settings": {
-            "icon_star": "quote",
+            "icon_star": "5_star",
             "custom_icon": "",
             "title": "Testimonials",
             "text": "<p>Veryy high quality, I wont think twice when ordering my next onee!!</p>",
