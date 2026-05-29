@@ -443,7 +443,7 @@
       ],
       "name": "t:sections.featured-collection.presets.name",
       "settings": {
-        "title": "For Men",
+        "title": "Men Collection",
         "highlight_type": "underline",
         "heading_size": 100,
         "heading_tag": "h2",
