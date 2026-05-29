@@ -371,7 +371,7 @@
         "slider_style": "vertical",
         "swiper_on_mobile": true,
         "auto_play": true,
-        "change_slides_speed": 4,
+        "change_slides_speed": 6,
         "columns_desktop": 5,
         "rows_desktop": 4,
         "spacing": 33,
