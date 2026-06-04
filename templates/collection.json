@@ -130,7 +130,7 @@
         "pagination": "pagination",
         "paginate_type": "circle",
         "show_vendor": false,
-        "show_rating": false,
+        "show_rating": true,
         "show_quickview": true,
         "show_description": true,
         "enable_advanced_filter": false,
