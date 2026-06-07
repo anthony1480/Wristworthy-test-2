@@ -14,6 +14,7 @@
       "blocks": {
         "inventory_status_F3feKQ": {
           "type": "inventory_status",
+          "disabled": true,
           "settings": {}
         },
         "judge_me_reviews_preview_badge_H8aJQ8": {
