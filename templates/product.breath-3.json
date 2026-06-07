@@ -12,6 +12,10 @@
     "main": {
       "type": "main-product",
       "blocks": {
+        "inventory_status_cTJwF4": {
+          "type": "inventory_status",
+          "settings": {}
+        },
         "icon_text_XU646T": {
           "type": "icon_text",
           "settings": {
@@ -175,6 +179,7 @@
         }
       },
       "block_order": [
+        "inventory_status_cTJwF4",
         "icon_text_XU646T",
         "badges",
         "price",

@@ -12,6 +12,10 @@
     "main": {
       "type": "main-product",
       "blocks": {
+        "inventory_status_F3feKQ": {
+          "type": "inventory_status",
+          "settings": {}
+        },
         "judge_me_reviews_preview_badge_H8aJQ8": {
           "type": "shopify://apps/judge-me-reviews/blocks/preview_badge/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
           "settings": {}
@@ -189,6 +193,7 @@
         }
       },
       "block_order": [
+        "inventory_status_F3feKQ",
         "judge_me_reviews_preview_badge_H8aJQ8",
         "icon_text_XU646T",
         "badges",
