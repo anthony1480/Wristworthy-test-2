@@ -104,6 +104,13 @@
             "secondary_button_text_dark": "rgba(0,0,0,0)"
           }
         },
+        "essential_trust_badges_app_block_k4YdNL": {
+          "type": "shopify://apps/essential-trust-badges/blocks/app-block/0ff65b25-07e1-408e-950f-f54dd3d1751b",
+          "settings": {
+            "banner_display": "all",
+            "banner_id": ""
+          }
+        },
         "ffacb41b-c15e-41ee-864a-cfbf155d407d": {
           "type": "estimate_delivery",
           "settings": {
@@ -193,6 +200,7 @@
         "size_chart_XK9cL3",
         "text_NLymxK",
         "buy_buttons",
+        "essential_trust_badges_app_block_k4YdNL",
         "ffacb41b-c15e-41ee-864a-cfbf155d407d",
         "collapsible-row-0",
         "collapsible_tab_rfEU8t",
