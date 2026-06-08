@@ -121,7 +121,7 @@
     "header": {
       "type": "header",
       "settings": {
-        "menu": "products",
+        "menu": "our-collections-1",
         "select_motion": "hover",
         "full_width": true,
         "logo_position": "left-center",
