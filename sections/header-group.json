@@ -118,6 +118,39 @@
         "text_size_toolbar": 200
       }
     },
+    "1781026937bc1e4742": {
+      "type": "_blocks",
+      "blocks": {
+        "ai_gen_block_756e6ba_WnWF6A": {
+          "type": "ai_gen_block_756e6ba",
+          "settings": {
+            "message": "<p>Free delivery all over Lebanon</p>",
+            "dismissible": false,
+            "show_icon": true,
+            "icon": "megaphone",
+            "icon_size": 20,
+            "icon_size_mobile": 16,
+            "text_alignment": "center",
+            "page_width": 1400,
+            "padding_vertical": 12,
+            "padding_horizontal": 20,
+            "padding_vertical_mobile": 10,
+            "padding_horizontal_mobile": 15,
+            "font_size": 14,
+            "font_size_mobile": 13,
+            "background_color": "#1d436b",
+            "text_color": "#FFFFFF",
+            "link_color": "#FB8500",
+            "link_hover_color": "#FFFFFF"
+          },
+          "blocks": {}
+        }
+      },
+      "block_order": [
+        "ai_gen_block_756e6ba_WnWF6A"
+      ],
+      "settings": {}
+    },
     "header": {
       "type": "header",
       "settings": {
@@ -195,6 +228,7 @@
   },
   "order": [
     "announcement-bar",
+    "1781026937bc1e4742",
     "header",
     "mobile-navigation"
   ]
