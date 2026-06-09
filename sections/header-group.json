@@ -97,7 +97,7 @@
       ],
       "settings": {
         "enable": true,
-        "show_only_on_homepage": true,
+        "show_only_on_homepage": false,
         "enable_sticky_bar": false,
         "enable_carousel_on_desktop": true,
         "backgound_color": "#253341",
@@ -139,9 +139,9 @@
             "font_size": 14,
             "font_size_mobile": 13,
             "background_color": "#1d436b",
-            "text_color": "#FFFFFF",
-            "link_color": "#FB8500",
-            "link_hover_color": "#FFFFFF"
+            "text_color": "#ffffff",
+            "link_color": "#fb8500",
+            "link_hover_color": "#ffffff"
           },
           "blocks": {}
         }
