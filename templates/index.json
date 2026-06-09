@@ -12,47 +12,6 @@
     "fe5dccd3-17fd-4fd3-ada9-a0e11305981c": {
       "type": "slideshow",
       "blocks": {
-        "slide_F6wLCp": {
-          "type": "slide",
-          "settings": {
-            "image": "shopify://shop_images/fred-womens-bracelet-6856010.jpg",
-            "image_link": "",
-            "open_new_window_image": false,
-            "overlay_opacity": 0,
-            "enable_bakground": false,
-            "subheading": "",
-            "heading": "",
-            "highlight_type": "underline",
-            "heading_size": 110,
-            "heading_tag": "h1",
-            "text": "<p><strong>Crafted to make every wrist count✨</strong></p>",
-            "button_label_1": "Shop Now",
-            "button_link_1": "shopify://collections/all-products",
-            "open_new_window_button": false,
-            "show_button_style_1": "primary",
-            "button_label_2": "",
-            "button_link_2": "",
-            "open_new_window_button_2": false,
-            "show_button_style_2": "primary",
-            "content_alignment": "bottom-center",
-            "custom_horizontal": 50,
-            "custom_vertical": 50,
-            "alignment": "center",
-            "text_product": "Check out our products:",
-            "list_products": [],
-            "show_rating": false,
-            "content_background_color": "rgba(0,0,0,0)",
-            "color_text": "rgba(0,0,0,0)",
-            "color_button": "rgba(0,0,0,0)",
-            "color_text_button": "rgba(0,0,0,0)",
-            "color_button_hover": "rgba(0,0,0,0)",
-            "color_text_button_hover": "rgba(0,0,0,0)",
-            "color_button_secondary": "rgba(0,0,0,0)",
-            "secondary_button_text": "rgba(0,0,0,0)",
-            "colors_text_link": "rgba(0,0,0,0)",
-            "color_heading_highlight_light": "rgba(0,0,0,0)"
-          }
-        },
         "template--21828924539181__fe5dccd3-17fd-4fd3-ada9-a0e11305981c-slide-1": {
           "type": "slide",
           "settings": {
@@ -91,6 +50,47 @@
             "color_text_button_hover": "rgba(0,0,0,0)",
             "color_button_secondary": "rgba(0,0,0,0)",
             "secondary_button_text": "#ffffff",
+            "colors_text_link": "rgba(0,0,0,0)",
+            "color_heading_highlight_light": "rgba(0,0,0,0)"
+          }
+        },
+        "slide_F6wLCp": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify://shop_images/fred-womens-bracelet-6856010.jpg",
+            "image_link": "",
+            "open_new_window_image": false,
+            "overlay_opacity": 0,
+            "enable_bakground": false,
+            "subheading": "",
+            "heading": "",
+            "highlight_type": "underline",
+            "heading_size": 110,
+            "heading_tag": "h1",
+            "text": "<p><strong>Crafted to make every wrist count✨</strong></p>",
+            "button_label_1": "Shop Now",
+            "button_link_1": "shopify://collections/all-products",
+            "open_new_window_button": false,
+            "show_button_style_1": "primary",
+            "button_label_2": "",
+            "button_link_2": "",
+            "open_new_window_button_2": false,
+            "show_button_style_2": "primary",
+            "content_alignment": "bottom-center",
+            "custom_horizontal": 50,
+            "custom_vertical": 50,
+            "alignment": "center",
+            "text_product": "Check out our products:",
+            "list_products": [],
+            "show_rating": false,
+            "content_background_color": "rgba(0,0,0,0)",
+            "color_text": "rgba(0,0,0,0)",
+            "color_button": "rgba(0,0,0,0)",
+            "color_text_button": "rgba(0,0,0,0)",
+            "color_button_hover": "rgba(0,0,0,0)",
+            "color_text_button_hover": "rgba(0,0,0,0)",
+            "color_button_secondary": "rgba(0,0,0,0)",
+            "secondary_button_text": "rgba(0,0,0,0)",
             "colors_text_link": "rgba(0,0,0,0)",
             "color_heading_highlight_light": "rgba(0,0,0,0)"
           }
@@ -139,8 +139,8 @@
         }
       },
       "block_order": [
-        "slide_F6wLCp",
         "template--21828924539181__fe5dccd3-17fd-4fd3-ada9-a0e11305981c-slide-1",
+        "slide_F6wLCp",
         "slide_PkL74K"
       ],
       "settings": {
